@@ -1,0 +1,25 @@
+DISCIPLINA,PRÉ-REQUISITOS,CARGA HORÁRIA TOTAL,CARGA HORÁRIA SEMANAL
+Cálculo N I,,60,4
+Introdução à Ciência da Computação,,60,4
+Introdução à Programação I,,60,4
+Matemática Discreta I,,60,4
+Metodologia Cientifica Aplicada à Computação,,60,4
+Algoritmos e Estruturas de Dados,"Introdução à Programação I, Matemática Discreta I",60,4
+Cálculo N II,Cáculo N I,60,4
+Introdução à Programação II,Introdução à Programação I,60,4
+Matemática Discreta II,Matemática Discreta I,60,4
+Circuitos Digitais,,60,4
+Estatística Exploratória,,60,4
+Física Aplicada a Computação,Cálculo N II,60,4
+Projeto e Análise de Algoritmos,Algoritmos e Estruturas de Dados,60,4
+Teoria da Computação,Matemática Discreta II,60,4
+Arquitetura e Organização de Computadores,Circuitos Digitais,60,4
+Banco de Dados S,Algoritmos e Estruturas de Dados,60,4
+Engenharia de Software,Introdução à Programação II,60,4
+Paradigmas de Programação,Introdução à Programação II,60,4
+Redes de Computadores,,60,4
+Compiladores,"Teoria da Computação, Introdução a Programação II",60,4
+Inteligência Artificial,Introdução à Programação II,60,4
+Projeto de Desenvolvimento de Software,"Introdução a Programação II, Banco de Dados, Engenharia de Software",60,4
+Sistemas Distribuidos,Redes de Computadores,60,4
+Sistemas Operacionais,Arquitetura e Organização de Computadores,60,4
