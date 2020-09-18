@@ -298,7 +298,7 @@
 - [realizar](cursar) [estagio obrigatorio](estagio)
 - como [cursar](cursar) [Estágio Supervisionado Obrigatório](estagio)?
 - passos para [cumprir](cursar) o [Estágio Obrigatório](estagio)?
-- qual o passo a passo para me [inscrever](cursar) o [ESO I](estágio)
+- qual o passo a passo para me [inscrever](cursar) o [ESO I](estagio)
 
 ## intent:info_estagio
 - [oq é](whatis) [Estágio Supervisionado Obrigatório](estagio)?
@@ -332,8 +332,9 @@
 - quantas [horas](horas) de aula eu [careço](necessario)?
 - quanto [tempo](horas) de [curso](necessario) eu me formo?
 - [tempo](horas) para se [formar](necessario)
-- quantas [horas](horas) de [carga horaria optativa](optativa) eu [preciso](necessario) pra me formar?
+- quantas [horas](horas) de carga horaria [optativa](optativa) eu [preciso](necessario) pra me formar?
 - quanto [tempo](horas) de [optativa](optativa) tenho para me formar
+- quantas [horas](horas)-aula de cadeiras [optativas](optativa) eu [preciso]?
 - [Preciso](necessario) de quantas [horas](horas) de aula para me formar?
 
 ## intent:oq_acontece_apos_entrada_ch_complementar

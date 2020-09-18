@@ -1,8 +1,6 @@
 session_config:
   session_expiration_time: 60
   carry_over_slots_to_new_session: true
-
-
 intents:
 - saudar
 - saber_criador
@@ -34,222 +32,249 @@ intents:
 - oq_acontece_apos_entrada_ch_complementar
 - empresa_ch_complementar
 - segredo
-
 entities:
-  - facilitytype
-  - piada
-  - calendario
-  - ch_complementar
-  - coordenacao
-  - naosei
-  - vale
-  - categoria
-  - contato
-  - passado
-  - add
-  - comprovar
-  - necessario
-  - prereq
-  - feito
-  - professores
-  - encontrar
-  - trilhas
-  - estagio
-  - ic
-  - dispensar
-  - cursar
-  - whatis
-  - horas
-  - entrada
-  - momento
-  - futuro
-  - empresa
-  - trabalho
+- facilitytype
+- piada
+- calendario
+- ch_complementar
+- coordenacao
+- naosei
+- vale
+- categoria
+- contato
+- passado
+- add
+- comprovar
+- necessario
+- prereq
+- feito
+- professores
+- encontrar
+- trilhas
+- estagio
+- ic
+- dispensar
+- cursar
+- whatis
+- horas
+- entrada
+- momento
+- futuro
+- empresa
+- trabalho
+- estágio
+- optativa
+
 slots:
   facilitytype:
     type: text
-
 responses:
   utter_continuar:
-    - text: "Eu posso continuar, você quer?"
-    - text: "Quer mais?"
-    - text: "Eu posso fazer isso o dia todo, continuo?"
-    - text: "Posso continuar?"
-    - text: "Quer que eu continue?"
-
+  - text: Eu posso continuar, você quer?
+  - text: Quer mais?
+  - text: Eu posso fazer isso o dia todo, continuo?
+  - text: Posso continuar?
+  - text: Quer que eu continue?
   utter_ok:
-    - text: Ok
-    - text: Entendido
-    - text: Certo
-    - text: Ótimo, entendido
-    - text: Ok, entendido
-
+  - text: Ok
+  - text: Entendido
+  - text: Certo
+  - text: Ótimo, entendido
+  - text: Ok, entendido
   utter_saudar:
-    - text: "Olá!
-    \n\nEu sou uma inteligência artificial e estou aqui para te ajudar
-    \nEstou aqui para tirar suas dúvidas, sinta-se a vontade.
-    \n\nSe quiser saber algumas perguntas que sei responder use o \"/help\""
-    - text: "Oi! Sou o IHAN (I Haven't A Name)
-    \nEu sou uma inteligência artificial e estou aqui para te ajudar
-    \n\nSe quiser saber algumas perguntas que sei responder use o \"/help\""
-
+  - text: "Olá! \n\nEu sou uma inteligência artificial e estou aqui para te ajudar\
+      \ \nEstou aqui para tirar suas dúvidas, sinta-se a vontade. \n\nSe quiser saber\
+      \ algumas perguntas que sei responder use o \"/help\""
+  - text: "Oi! Sou o IHAN (I Haven't A Name) \nEu sou uma inteligência artificial\
+      \ e estou aqui para te ajudar \n\nSe quiser saber algumas perguntas que sei\
+      \ responder use o \"/help\""
   utter_criador:
-    - text: Eu fui criado pelo Rodrigues, estudante de Ciência da Computação na UFRPE. Nasci de parto orientado a objeto, auxiliado pela biblioteca RASA.
-    - text: Meu criador é o Rodrigues, estudante de Ciência da Computação na UFRPE, auxiliado pela biblioteca RASA.
-
+  - text: Eu fui criado pelo Rodrigues, estudante de Ciência da Computação na UFRPE.
+      Nasci de parto orientado a objeto, auxiliado pela biblioteca RASA.
+  - text: Meu criador é o Rodrigues, estudante de Ciência da Computação na UFRPE,
+      auxiliado pela biblioteca RASA.
   utter_despedir:
-    - text: "Foi um prazer te ajudar!\n\nSempre que tiver alguma dúvida, volte aqui!\n\n
-        Até logo!\n"
-    - text: "Espero ter te ajudado!\n\nSempre que precisar de mim, volte aqui!\n\nAté a próxima!\n"
-    - text: "Tchau!\n\nQuando surgir alguma dúvida, volte aqui!\n"
+  - text: "Foi um prazer te ajudar!\n\nSempre que tiver alguma dúvida, volte aqui!\n\
+      \n Até logo!\n"
+  - text: "Espero ter te ajudado!\n\nSempre que precisar de mim, volte aqui!\n\nAté\
+      \ a próxima!\n"
+  - text: "Tchau!\n\nQuando surgir alguma dúvida, volte aqui!\n"
   utter_piada:
-    - text: "Conheço uma piada\n\nA do CPU que apitou e explodiu\n\n01100110010101010101000000111101001001001110100101\n"
-    - text: "É pra já!!!\n\nTenho uma enxada, uma pá e uma foice.\n  \nQuantas ferramentas\
-        \ eu tenho?\n\n...\n\nDuas, porque uma foi-se =)\n"
-    - text: "Por que o Batman colocou o batmóvel no seguro???\n\nPorque ele tem medo\
-        \ que robin =D\n"
-    - text: "A piada do mexilhãozinho feio:\n\n Era uma vez um mexilhão tão feio que todo mundo morreu.\n\nEssa é a piada.\n"
-    - text: "Eu coloquei o \"bô\" no \"robô\".\n\nOutros robôs acham isso apropriadamente engraçado.\n"
-    - text: "E então Deus disse a Noé: \"Faz backup que eu vou formatar.\"\n"
-    - text: "Por que o sapo entrou no computador?\n\nPara procurar a RAM.\n"
-    - text: "Como um webdesigner fecha a casa?\n\n...\n\nCom o </home>.\n"
-    - text: "Chuck Norris consegue usar Ctrl+C e Ctrl+V na máquina de escrever.\n\nEu sei, não é uma piada, mas me fez rir.\n Eu não tenho parâmetros de humor tão bem definidos..."
-    - text: "O que o C++ falou para o C?\n\n“Você não tem classe.”"
-    - text: "Por que o Linux usa o pinguim como mascote?\n\nPorque não congela."
-    - text: "Qual a diferença entre hardware e software?\n\nO software você xinga, e o hardware você chuta."
-    - text: "Um programador foi ao açougue e pediu um kilo de carne.\n\nChegando em casa, ficou indignado: “Estão faltando 24gramas!”"
-    - text: "O que é um terapeuta?\n\n1.024 gigapeutas."
-
+  - text: "Conheço uma piada\n\nA do CPU que apitou e explodiu\n\n01100110010101010101000000111101001001001110100101\n"
+  - text: "É pra já!!!\n\nTenho uma enxada, uma pá e uma foice.\n  \nQuantas ferramentas\
+      \ eu tenho?\n\n...\n\nDuas, porque uma foi-se =)\n"
+  - text: "Por que o Batman colocou o batmóvel no seguro???\n\nPorque ele tem medo\
+      \ que robin =D\n"
+  - text: "A piada do mexilhãozinho feio:\n\n Era uma vez um mexilhão tão feio que\
+      \ todo mundo morreu.\n\nEssa é a piada.\n"
+  - text: "Eu coloquei o \"bô\" no \"robô\".\n\nOutros robôs acham isso apropriadamente\
+      \ engraçado.\n"
+  - text: "E então Deus disse a Noé: \"Faz backup que eu vou formatar.\"\n"
+  - text: "Por que o sapo entrou no computador?\n\nPara procurar a RAM.\n"
+  - text: "Como um webdesigner fecha a casa?\n\n...\n\nCom o </home>.\n"
+  - text: "Chuck Norris consegue usar Ctrl+C e Ctrl+V na máquina de escrever.\n\n\
+      Eu sei, não é uma piada, mas me fez rir.\n Eu não tenho parâmetros de humor\
+      \ tão bem definidos..."
+  - text: "O que o C++ falou para o C?\n\n“Você não tem classe.”"
+  - text: "Por que o Linux usa o pinguim como mascote?\n\nPorque não congela."
+  - text: "Qual a diferença entre hardware e software?\n\nO software você xinga, e\
+      \ o hardware você chuta."
+  - text: "Um programador foi ao açougue e pediu um kilo de carne.\n\nChegando em\
+      \ casa, ficou indignado: “Estão faltando 24gramas!”"
+  - text: "O que é um terapeuta?\n\n1.024 gigapeutas."
   utter_duvida_calendario:
-    - text: "O calendário acadêmico está disponível no site institucional da UFRPE\n\nVocê pode acessar pelo link: http://www.ufrpe.br/br/content/calend%C3%A1rio-acad%C3%AAmico"
+  - text: "O calendário acadêmico está disponível no site institucional da UFRPE\n\
+      \nVocê pode acessar pelo link: http://www.ufrpe.br/br/content/calend%C3%A1rio-acad%C3%AAmico"
   utter_duvida_carga_horaria_complementar:
-    - text: "Existem sub-categorias dentro de ensino, pesquisa e extensão, com cargas horárias pré-definidas (15, 30 ou 60h). 
-    \n\nPor exemplo: se você realizou um curso de 37h, ele vai contar como sub-categoria \"Curso de Extensão\", com carga horária de 30h; 
-    \nparticipação em projeto de extensão contabiliza 60h; 
-    \nPIBID contabiliza 60 ou 120h, etc. 
-    \nProcure a coordenação para maiores detalhes. 
-    \nÉ muito importante que os certificados / declarações de cursos explicitem a carga horária."
+  - text: "Existem sub-categorias dentro de ensino, pesquisa e extensão, com cargas\
+      \ horárias pré-definidas (15, 30 ou 60h). \n\nPor exemplo: se você realizou\
+      \ um curso de 37h, ele vai contar como sub-categoria \"Curso de Extensão\",\
+      \ com carga horária de 30h; \nparticipação em projeto de extensão contabiliza\
+      \ 60h; \nPIBID contabiliza 60 ou 120h, etc. \nProcure a coordenação para maiores\
+      \ detalhes. \nÉ muito importante que os certificados / declarações de cursos\
+      \ explicitem a carga horária."
   utter_duvida_carga_horaria_complementar2:
-    - text: "Nesse caso recomendo que procure a coordenação do curso para perguntar sobre seu caso."
-    - text: "Desculpe.\n Então o ideal é que procure a coordenação do curso para perguntar sobre seu caso."
+  - text: Nesse caso recomendo que procure a coordenação do curso para perguntar sobre
+      seu caso.
+  - text: "Desculpe.\n Então o ideal é que procure a coordenação do curso para perguntar\
+      \ sobre seu caso."
   utter_duvida_carga_horaria_complementar3:
-    - text: "Você não pode incluir atividades complementares anteriores ao curso.\n\nAs atividades devem ter sido realizadas durante o seu curso, como parte da sua formação universitária."
+  - text: "Você não pode incluir atividades complementares anteriores ao curso.\n\n\
+      As atividades devem ter sido realizadas durante o seu curso, como parte da sua\
+      \ formação universitária."
   utter_duvida_carga_horaria_complementar4:
-    - text: "As atividades complementares são atividades extra curricular que o aluno precisa realizar para o cumprimento dos requisitos do curso.
-    \n\nPara o curso de Bacharelado em Ciência da computação são necessárias 180 horas de atividades complementares.
-    \n\nEssas horas devem ser divididos em pelo menos duas esferas (ensino, pesquisa ou extensão) e a menor deve ter pelo menos 60 horas."
+  - text: "As atividades complementares são atividades extra curricular que o aluno\
+      \ precisa realizar para o cumprimento dos requisitos do curso. \n\nPara o curso\
+      \ de Bacharelado em Ciência da computação são necessárias 180 horas de atividades\
+      \ complementares. \n\nEssas horas devem ser divididos em pelo menos duas esferas\
+      \ (ensino, pesquisa ou extensão) e a menor deve ter pelo menos 60 horas."
   utter_duvida_carga_horaria_complementar5:
-    - text: "É necessário comprovar todas as atividades complementares.
-    \n\nOs documentos comprobatórios devem ser cópias autenticadas em cartório, ou conferidas com os originais pela coordenação do curso.
-    \n\nÉ importante que os documentos explicitem a carga horária."
+  - text: "É necessário comprovar todas as atividades complementares. \n\nOs documentos\
+      \ comprobatórios devem ser cópias autenticadas em cartório, ou conferidas com\
+      \ os originais pela coordenação do curso. \n\nÉ importante que os documentos\
+      \ explicitem a carga horária."
   utter_duvida_carga_horaria_complementar6:
-    - text: "É necessário no mínimo participação em duas categorias. Cada categoria contabiliza no máximo 120h. Assim, as 180h exigidas não podem ser acumuladas em uma única categoria."
-  
+  - text: É necessário no mínimo participação em duas categorias. Cada categoria contabiliza
+      no máximo 120h. Assim, as 180h exigidas não podem ser acumuladas em uma única
+      categoria.
   utter_contatos_coordenacao:
-    - text: "Contatos: secretaria.bcc@ufrpe.br, secretaria.bcc@gmail.com, (81) 3320-5439"
+  - text: 'Contatos: secretaria.bcc@ufrpe.br, secretaria.bcc@gmail.com, (81) 3320-5439'
   utter_divisao_att_comp:
-    - text: "\n\nAs atividades complementares dividem-se nos três pilares universitários: Ensino, Pesquisa e Extensão. Uma lista não exaustiva de atividades que se encaixam em cada categoria:
-    \nEnsino
-        \n\tPIBID
-        \n\tMonitoria
-        \n\tOutras atividades de iniciação à docência
-    \nPesquisa
-        \n\tPIBIC
-        \n\tPIBITI
-        \n\tPIC
-        \n\tParticipação em projetos de pesquisa formalizados na universidade, mesmo que não vinculados a fundações de apoio como CNPq ou FACEPE
-        \n\tEstágio em Institutos de Pesquisa, ONGs
-        \n\tPublicações técnico-científicas (artigos resumidos equivalem a 30h e artigos completos equivalem a 60h)
-    \nExtensão
-        \n\tParticipação em projetos de extensão (bolsista ou voluntário)
-        \n\tCursos de curta duração (na área de computação, línguas, etc.)
-        \n\tElaboração de produtos formalizados (instrumentos de avaliação, kits pedagógicos, publicações didático-pedagógicas, patentes, sistemas de informação, …)
-        \n\tPrestação de serviço (consultorias, elaboração de projetos formais, etc.)
-        \n\tEventos (encontros, simpósios, congressos, jornadas, oficinas, fóruns, mesas redondas…)"
+  - text: "\n\nAs atividades complementares dividem-se nos três pilares universitários:\
+      \ Ensino, Pesquisa e Extensão. Uma lista não exaustiva de atividades que se\
+      \ encaixam em cada categoria: \nEnsino \n\tPIBID \n\tMonitoria \n\tOutras atividades\
+      \ de iniciação à docência \nPesquisa \n\tPIBIC \n\tPIBITI \n\tPIC \n\tParticipação\
+      \ em projetos de pesquisa formalizados na universidade, mesmo que não vinculados\
+      \ a fundações de apoio como CNPq ou FACEPE \n\tEstágio em Institutos de Pesquisa,\
+      \ ONGs \n\tPublicações técnico-científicas (artigos resumidos equivalem a 30h\
+      \ e artigos completos equivalem a 60h) \nExtensão \n\tParticipação em projetos\
+      \ de extensão (bolsista ou voluntário) \n\tCursos de curta duração (na área\
+      \ de computação, línguas, etc.) \n\tElaboração de produtos formalizados (instrumentos\
+      \ de avaliação, kits pedagógicos, publicações didático-pedagógicas, patentes,\
+      \ sistemas de informação, …) \n\tPrestação de serviço (consultorias, elaboração\
+      \ de projetos formais, etc.) \n\tEventos (encontros, simpósios, congressos,\
+      \ jornadas, oficinas, fóruns, mesas redondas…)"
   utter_deseja_categorias:
-    - text: "\n\nQuer que eu te diga como se dividem as categorias de atividades complementares?"
-    - text: "\n\nSe quiser eu posso te dizer como as categorias de dividem. Você quer?"
-    - text: "\n\nSe for preciso basta dizer um \"Sim\" que eu te digo como se dividem as categorias das atividades complementares"
+  - text: "\n\nQuer que eu te diga como se dividem as categorias de atividades complementares?"
+  - text: "\n\nSe quiser eu posso te dizer como as categorias de dividem. Você quer?"
+  - text: "\n\nSe for preciso basta dizer um \"Sim\" que eu te digo como se dividem\
+      \ as categorias das atividades complementares"
   utter_ajudou:
-    - text: "Isso resolve sua dúvida?"
-    - text: "Isso te ajudou?"
-    - text: "Consegui te ajudar?"
-    - text: "Isso resolveu sua dúvida?"
+  - text: Isso resolve sua dúvida?
+  - text: Isso te ajudou?
+  - text: Consegui te ajudar?
+  - text: Isso resolveu sua dúvida?
   utter_disponha:
-    - text: "Disponha!"
-    - text: É um prazer lhe ajudar!
-    - text: Sempre é um prazer te ajudar!
-    - text: Estou aqui pra o que você precisar!
-    - text: Se precisar de mais alguma coisa só me perguntar!
-    - text: Estou sempre a sua disposição!
-    - text: Estou ao seu dispor!
-    - text: Não precisa me agradecer, esse é o meu trabalho :D
+  - text: Disponha!
+  - text: É um prazer lhe ajudar!
+  - text: Sempre é um prazer te ajudar!
+  - text: Estou aqui pra o que você precisar!
+  - text: Se precisar de mais alguma coisa só me perguntar!
+  - text: Estou sempre a sua disposição!
+  - text: Estou ao seu dispor!
+  - text: Não precisa me agradecer, esse é o meu trabalho :D
   utter_saber_professores:
-    - text: "Para obter a relação de todos os professores que estão oferecendo disciplinas no semestre atual basta acessar: http://ww2.bcc.ufrpe.br/docentes"
+  - text: 'Para obter a relação de todos os professores que estão oferecendo disciplinas
+      no semestre atual basta acessar: http://ww2.bcc.ufrpe.br/docentes'
   utter_oq_e_trilha:
-    - text: "As trilhas são indicações de disciplinas relacionadas a uma área específica da computação. 
-    \nElas são apenas um indicativo de caminho a seguir, não é obrigatório nenhum aluno comprir as trilhas para se formar. 
-    \nCaso o aluno conclua uma ou mais trilhas pode pedir na coordenação do curso um certificado. 
-    \nEsse certificado não tem validade de diploma, é apenas um atestado que durante a graduação o aluno se aprofundou em determinadas áreas da computação."
+  - text: "As trilhas são indicações de disciplinas relacionadas a uma área específica\
+      \ da computação. \nElas são apenas um indicativo de caminho a seguir, não é\
+      \ obrigatório nenhum aluno comprir as trilhas para se formar. \nCaso o aluno\
+      \ conclua uma ou mais trilhas pode pedir na coordenação do curso um certificado.\
+      \ \nEsse certificado não tem validade de diploma, é apenas um atestado que durante\
+      \ a graduação o aluno se aprofundou em determinadas áreas da computação."
   utter_cursar_trilhas:
-    - text: "Seguir as trilhas sugeridas não é obrigatório.
-    \nAs trilhas são apenas indicações de disciplinas para quem quiser aprofundar numa determinada área da computação."
+  - text: "Seguir as trilhas sugeridas não é obrigatório. \nAs trilhas são apenas\
+      \ indicações de disciplinas para quem quiser aprofundar numa determinada área\
+      \ da computação."
   utter_dispensar_estagio:
-    - text: "Passos para dispensar Estágio Supervisionado Obrigatório (ESO) usando Atividades de Pesquisa, Ensino ou Extensão:
-    \n\t1. Informe-se com o orientador de estágios para saber se as atividades que você faz são válidas para um aluno de Ciência da Computação.
-    \n\t2. Realize, pelo menos, 1 ano da atividade (PIBIC, PIC, PIBIT, etc). 
-    \n\t\t* Não se matricule nos componentes ESO I ou II durante este período.
-    \n\t3. Ao fim da atividade, faça o relatório da atividade, assinado pelo seu orientador da atividade, descrevendo o que foi feito em todo o período.
-    \n\t4. Preencha um requerimento solicitando as dispensas e forme processo solicitando a dispensa. Procure a secretaria para mais detalhes.
-    \n\t5. O seu processo será avaliado pelo Colegiado de Coordenação Didática (CCD) do BCC. Se ele for aprovado, o processo segue para o DRCA para ser processado."
+  - text: "Passos para dispensar Estágio Supervisionado Obrigatório (ESO) usando Atividades\
+      \ de Pesquisa, Ensino ou Extensão: \n\t1. Informe-se com o orientador de estágios\
+      \ para saber se as atividades que você faz são válidas para um aluno de Ciência\
+      \ da Computação. \n\t2. Realize, pelo menos, 1 ano da atividade (PIBIC, PIC,\
+      \ PIBIT, etc). \n\t\t* Não se matricule nos componentes ESO I ou II durante\
+      \ este período. \n\t3. Ao fim da atividade, faça o relatório da atividade, assinado\
+      \ pelo seu orientador da atividade, descrevendo o que foi feito em todo o período.\
+      \ \n\t4. Preencha um requerimento solicitando as dispensas e forme processo\
+      \ solicitando a dispensa. Procure a secretaria para mais detalhes. \n\t5. O\
+      \ seu processo será avaliado pelo Colegiado de Coordenação Didática (CCD) do\
+      \ BCC. Se ele for aprovado, o processo segue para o DRCA para ser processado."
   utter_cumprir_estagio:
-    - text: "Para mais informações sobre quais os procedimentos do Estágio Supervisionado Obrigatório acesse: http://ww2.bcc.ufrpe.br/content/est%C3%A1gio-supervisionado-obrigat%C3%B3rio-procedimentos"
+  - text: 'Para mais informações sobre quais os procedimentos do Estágio Supervisionado
+      Obrigatório acesse: http://ww2.bcc.ufrpe.br/content/est%C3%A1gio-supervisionado-obrigat%C3%B3rio-procedimentos'
   utter_info_estagio:
-    - text: "O Estágio Supervisionado Obrigatório é um componente curricular que visa a criação de um desempenho profissional do aluno por meio da experiência prática.
-    \nDe acordo com o Projeto Pedagógico do Curso (PPC) de BCC, o aluno é obrigado realizar 240 horas de atividades de estágios supervisionado, para cumprir sua formação.
-    \nO PPC também estipula que o aluno só pode fazer um estágio supervisionado obrigatório (ESO) a partir do seu 7o período.
-    \n(Estágios de caráter não-curriculares podem ser feitos, opcionalmente, a partir do 3o período).
-    \nPara mais informações, acesse: http://ww2.bcc.ufrpe.br/content/est%C3%A1gio-supervisionado-obrigat%C3%B3rio-informa%C3%A7%C3%B5es-gerais"
+  - text: "O Estágio Supervisionado Obrigatório é um componente curricular que visa\
+      \ a criação de um desempenho profissional do aluno por meio da experiência prática.\
+      \ \nDe acordo com o Projeto Pedagógico do Curso (PPC) de BCC, o aluno é obrigado\
+      \ realizar 240 horas de atividades de estágios supervisionado, para cumprir\
+      \ sua formação. \nO PPC também estipula que o aluno só pode fazer um estágio\
+      \ supervisionado obrigatório (ESO) a partir do seu 7o período. \n(Estágios de\
+      \ caráter não-curriculares podem ser feitos, opcionalmente, a partir do 3o período).\
+      \ \nPara mais informações, acesse: http://ww2.bcc.ufrpe.br/content/est%C3%A1gio-supervisionado-obrigat%C3%B3rio-informa%C3%A7%C3%B5es-gerais"
   utter_segredo:
-    - text: "gt6rQhHGvE2p82MnzmnZdLoHjplQ91rxuTjDN_pNAmhh8ZqzNdp28-3B4ueMaQpp\n\nChave: BCC"
+  - text: "gt6rQhHGvE2p82MnzmnZdLoHjplQ91rxuTjDN_pNAmhh8ZqzNdp28-3B4ueMaQpp\n\nChave:\
+      \ BCC"
   utter_help:
-    - text: "Você pode me perguntar coisas como:
-      \n\tO que são atividades complementares?
-      \n\tQuem te criou?
-      \n\tQuais categorias de atividades complementares eu preciso ter para me formar?
-      \n\tConte-me uma piada
-      \n\tOnde está o calendário acadêmico?
-      \n\tQual o contato da coordenação?
-      \n\tComo são contabilizadas as atividades complementares?
-      \n\tAtividades complementares anteriores ao curso são contabilizadas?
-      \n\tPré requisitos para alguma disciplina (ex: Quais pré requisitos para Algoritmos e Estrutura de Dados)
-      \n\tQuais são os professores desse periodo?
-      \n\tO que é uma trilha?
-      \n\tComo dispensar Estágio Obrigatório?
-      \n\tPreciso de quantas horas de aula pra me formar?
-      \n\tTrabalhei em uma empresa. Essas horas servem como atividade complementar?
-      "
+  - text: "Você pode me perguntar coisas como: \n\tO que são atividades complementares?\
+      \ \n\tQuem te criou? \n\tQuais categorias de atividades complementares eu preciso\
+      \ ter para me formar? \n\tConte-me uma piada \n\tOnde está o calendário acadêmico?\
+      \ \n\tQual o contato da coordenação? \n\tComo são contabilizadas as atividades\
+      \ complementares? \n\tAtividades complementares anteriores ao curso são contabilizadas?\
+      \ \n\tPré requisitos para alguma disciplina (ex: Quais pré requisitos para Algoritmos\
+      \ e Estrutura de Dados) \n\tQuais são os professores desse periodo? \n\tO que\
+      \ é uma trilha? \n\tComo dispensar Estágio Obrigatório? \n\tPreciso de quantas\
+      \ horas de aula pra me formar? \n\tTrabalhei em uma empresa. Essas horas servem\
+      \ como atividade complementar? "
   utter_horas_necessarias:
-    - text: "O currículo de BCC está atualmente organizado da seguinte forma:
-    \n\tDisciplinas obrigatórias: 1950h
-    \n\tDisciplinas optativas: 1080h (18 optativas, que na prática contabilizam 1080h pois cada disciplina corresponde a 60h)
-    \n\tAtividades complementares: 180h
-    \n\tCarga horária total: 3210h"
+  - text: "O currículo de BCC está atualmente organizado da seguinte forma: \n\tDisciplinas\
+      \ obrigatórias: 1950h \n\tDisciplinas optativas: 1080h (18 optativas, que na\
+      \ prática contabilizam 1080h pois cada disciplina corresponde a 60h) \n\tAtividades\
+      \ complementares: 180h \n\tCarga horária total: 3210h"
   utter_oq_acontece_apos_entrada_ch_complementar:
-    - text: "1. O processo é encaminhado à coordenação, que vai preencher um formulário com as atividades apresentadas pelo aluno em ensino, pesquisa e extensão, e atribuir a carga horária equivalente.
-    \n2. O colegiado do curso homologa as atividades.
-    \n3. A coordenação encaminha o processo ao DRCA.
-    \n4. O DRCA faz uma conferência e lança as atividades no SIGA.
-\n\nSe for identificada alguma irregularidade, você será contatado pela coordenação ao longo deste processo."
+  - text: "1. O processo é encaminhado à coordenação, que vai preencher um formulário\
+      \ com as atividades apresentadas pelo aluno em ensino, pesquisa e extensão,\
+      \ e atribuir a carga horária equivalente. \n2. O colegiado do curso homologa\
+      \ as atividades. \n3. A coordenação encaminha o processo ao DRCA. \n4. O DRCA\
+      \ faz uma conferência e lança as atividades no SIGA. \n\nSe for identificada\
+      \ alguma irregularidade, você será contatado pela coordenação ao longo deste\
+      \ processo."
   utter_qlqr_momento_complementar:
-    - text: "Você pode dar entrada a qualquer momento da sua graduação, mas é aconselhável só fazer isso no seu último semestre, de preferência com uma boa antecedência em relação à data-limite do calendário acadêmico.
-    \nO motivo para só abrir o processo no seu último semestre é que o órgão responsável por lançar as atividades no SIGA (o DRCA), fica sobrecarregado e dá prioridade às atividades dos concluintes."
+  - text: "Você pode dar entrada a qualquer momento da sua graduação, mas é aconselhável\
+      \ só fazer isso no seu último semestre, de preferência com uma boa antecedência\
+      \ em relação à data-limite do calendário acadêmico. \nO motivo para só abrir\
+      \ o processo no seu último semestre é que o órgão responsável por lançar as\
+      \ atividades no SIGA (o DRCA), fica sobrecarregado e dá prioridade às atividades\
+      \ dos concluintes."
   utter_empresa_ch_complementar:
-    - text: "Uma declaração de vínculo empregatício não conta como atividade complementar.
-    \nMas, se você realizar ou ministrar cursos / treinamentos / desenvolvimento de um produto específico ou outras atividades do tipo, uma declaração específica sobre tais atividades pode ser válida.
-    \nIsso precisará ser analisado caso a caso."
+  - text: "Uma declaração de vínculo empregatício não conta como atividade complementar.\
+      \ \nMas, se você realizar ou ministrar cursos / treinamentos / desenvolvimento\
+      \ de um produto específico ou outras atividades do tipo, uma declaração específica\
+      \ sobre tais atividades pode ser válida. \nIsso precisará ser analisado caso\
+      \ a caso."
   utter_default:
-    - text: "Desculpe, não consegui entender, você pode escrever de uma forma diferente?\n\nPode ser que eu ainda não saiba sobre isso, mas não se preocupe eu sempre estou estudando muito pra te ajudar melhor"
+  - text: "Desculpe, não consegui entender, você pode escrever de uma forma diferente?\n\
+      \nPode ser que eu ainda não saiba sobre isso, mas não se preocupe eu sempre\
+      \ estou estudando muito pra te ajudar melhor"
 actions:
 - utter_saudar
 - utter_criador
@@ -282,4 +307,3 @@ actions:
 - utter_deseja_categorias
 - utter_disponha
 - utter_default
-
