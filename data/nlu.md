@@ -21,7 +21,7 @@
 - hi
 - paz do senhor
 
-## intent: despedir
+## intent:despedir
 - tchau
 - xau
 - adeus
@@ -36,40 +36,42 @@
 - xauzinho
 
 ## intent:prereqs
-- quero saber os [pré-requisitos](prereq) para [Cálculo](facilitytype)
-- [quais são as cadeiras](prereq) que eu tenho que ter pago para pagar [inteligencia artificial](facilitytype)
-- [requisitos](prereq) [Física](facilitytype)
-- qual [prereq](prereq) p [calc2](facilitytype)
-- [pré-requisitos](prereq) para [paa](facilitytype)
-- [pré requisitos](prereq) p/ [Algoritmos e Estruturas de Dados](facilitytype)
-- eu tenho que ter pago [quais cadeiras](prereq) para pagar [Algoritmos](facilitytype)
-- [prereq](prereq) [PAA](facilitytype)
-- [prereqs](prereq) [icc](facilitytype)
-- quais [prereqs](prereq) [Matemática Discreta](facilitytype)
-- [discreta 2](facilitytype) tem algum [requisito](prereq)?
-- para pagar a cadeira [discreta](facilitytype) preciso ter [pago quais cadeiras](prereq)?
-- quais [disciplinas](prereq) devo ter cursado para cursar [calci](facilitytype)
-- oq [pagar para poder fazer](prereq) [algoritmos](facilitytype)
-- [pre-req](prereq) [prog2](facilitytype)
-- [pre-reqs](prereq) [Programação 2](facilitytype)
-- [pre requisitos](prereq) [álgebra linear](facilitytype)
-- quero saber os [pré-requisitos](prereq) para [IA](facilitytype)
-- [quais são as cadeiras](prereq) que eu tenho que ter pago para pagar [redes](facilitytype)
-- [requisitos](prereq) [redes de computadores](facilitytype)
-- qual [prereq](prereq) p [sistemas distribuidos](facilitytype)
-- [pré-requisitos](prereq) para [arq](facilitytype)
-- [pré requisitos](prereq) p/ [arquitetura](facilitytype)
-- eu tenho que ter pago [quais cadeiras](prereq) para pagar [bd](facilitytype)
-- [prereq](prereq) [banco](facilitytype)
-- [prereqs](prereq) [banco de dados](facilitytype)
-- quais [prereqs](prereq) [estatistica](facilitytype)
-- [estátistica explorátoria](facilitytype) tem algum [requisito](prereq)?
-- para pagar a cadeira [prog1](facilitytype) preciso ter [pago quais cadeiras](prereq)?
-- quais [disciplinas](prereq) devo ter cursado para cursar [ip1](facilitytype)
-- oq [pagar para poder fazer](prereq) [ip](facilitytype)
-- [pre-req](prereq) [ip2](facilitytype)
-- [pre-reqs](prereq) [péricles](facilitytype)
-- [pre requisitos](prereq) [redes neurais](facilitytype)
+- quero saber os pré-requisitos para [Cálculo](facilitytype)
+- quais são as cadeiras que eu tenho que ter pago para pagar [inteligencia artificial](facilitytype)
+- requisitos [Física](facilitytype)
+- qual prereq p [calc2](facilitytype)
+- pré-requisitos para [paa](facilitytype)
+- pré requisitos p/ [Algoritmos e Estruturas de Dados](facilitytype)
+- eu tenho que ter pago quais cadeiras para pagar [Algoritmos](facilitytype)
+- prereq [PAA](facilitytype)
+- prereqs [icc](facilitytype)
+- quais prereqs [Matemática Discreta](facilitytype)
+- [discreta 2](facilitytype) tem algum requisito?
+- para pagar a cadeira [discreta](facilitytype) preciso ter [pago quais cadeiras]?
+- quais disciplinas devo ter cursado para cursar [calci](facilitytype)
+- oq pagar para poder fazer [algoritmos](facilitytype)
+- pre-req [prog2](facilitytype)
+- pre-reqs [Programação 2](facilitytype)
+- pre requisitos [álgebra linear](facilitytype)
+- quero saber os [pré-requisitos] para [IA](facilitytype)
+- quais são as cadeiras que eu tenho que ter pago para pagar [redes](facilitytype)
+- requisitos [redes de computadores](facilitytype)
+- qual prereq p [sistemas distribuidos](facilitytype)
+- pré-requisitos para [arq](facilitytype)
+- pré requisitos p/ [arquitetura](facilitytype)
+- eu tenho que ter pago quais cadeiras para pagar [bd](facilitytype)
+- prereq [banco](facilitytype)
+- prereqs [banco de dados](facilitytype)
+- quais prereqs [estatistica](facilitytype)
+- [estátistica explorátoria](facilitytype) tem algum requisito?
+- para pagar a cadeira [prog1](facilitytype) preciso ter pago quais cadeiras?
+- quais disciplinas devo ter cursado para cursar [ip1](facilitytype)
+- oq pagar para poder fazer [ip](facilitytype)
+- pre-req [ip2](facilitytype)
+- pre-reqs [péricles](facilitytype)
+- pre requisitos [redes neurais](facilitytype)
+- pré-requisitos [Cálculo N II](facilitytype)
+
 
 ## intent:piada
 - sabe alguma [piada](piada)
@@ -124,7 +126,7 @@
 - continue
 - quero mais
 
-## intent: agradecer
+## intent:agradecer
 - agradecido
 - obrigado
 - obg
@@ -141,6 +143,7 @@
 - obrigado lindo
 - ai sim hein valeu
 - valeu man
+- ta certo, obg
 
 ## intent:recusar
 - não
@@ -160,7 +163,6 @@
 - não continue
 - não aceito
 - ñ quero
-- não aceito
 
 ## intent:calendario
 - Onde encontro o [calendário Acadêmico](calendario)?
@@ -289,6 +291,7 @@
 - [dispensar](dispensar) [Estágio Supervisionado Obrigatório](estagio)
 - se eu fizer uma [extensão](ic) posso pedir [dispensa](dispensar) do [ESO](estagio)
 - [monitoria](ic) garante [dispensa](dispensar) do [estagio obrigatorio](estagio)?
+
 ## intent:cumprir_estagio
 - como [fazer](cursar) [Estágio Supervisionado Obrigatório](estagio)?
 - quais os [procedimentos](cursar) para o [estagio obrigatorio](estagio)?
@@ -302,7 +305,7 @@
 
 ## intent:info_estagio
 - [oq é](whatis) [Estágio Supervisionado Obrigatório](estagio)?
-- [o que são](whatis) [ESO I](estágio)
+- [o que são](whatis) [ESO I](estagio)
 - [o que é](whatis) [estagio obrigatorio](estagio)
 - quero saber mais sobre [ESO](estagio)
 - me fale mais [Estágio Obrigatório](estagio)?
@@ -334,7 +337,7 @@
 - [tempo](horas) para se [formar](necessario)
 - quantas [horas](horas) de carga horaria [optativa](optativa) eu [preciso](necessario) pra me formar?
 - quanto [tempo](horas) de [optativa](optativa) tenho para me formar
-- quantas [horas](horas)-aula de cadeiras [optativas](optativa) eu [preciso]?
+- quantas [horas](horas) -aula de cadeiras [optativas](optativa) eu [preciso](necessario)?
 - [Preciso](necessario) de quantas [horas](horas) de aula para me formar?
 
 ## intent:oq_acontece_apos_entrada_ch_complementar
@@ -352,3 +355,293 @@
 - Se eu já tiver [trabalhado](trabalho) em algum [lugar](empresa) posso [contar](vale) isso como [atividade complementar](ch_complementar)
 - [Realizei trabalhos](trabalho) antes do curso, isso [serve](vale) como [carga horaria complementar](ch_complementar)
 - Meus [trabalhos](trabalho) podem ser utilizados para [complementar](vale) a [atividade complementar](ch_complementar)
+
+
+
+
+
+
+
+## synonym:Inteligência Artificial
+- inteligencia artificial
+- inteligência artificial
+- ia
+- intelignecia aritifical
+- intelignecia artificial
+- inteligencia artifiical
+- intelignecia artifiical
+
+## synonym:Cálculo N I
+- cálculo
+- calculo
+- calc
+- calc n 1
+- calc n1
+- calc ni
+- calc n i
+- calculo n 1
+- calculo n1
+- calculo ni
+- calculo n i
+- cálculo n 1
+- cálculo n1
+- cálculo ni
+- cálculo n i
+- calculo1
+- caclulo
+- cn1
+- cni
+
+## synonym:Cálculo N II
+- cálculo ii
+- calculo ii
+- calc ii
+- calc n 2
+- calc n2
+- calc nii
+- calc n ii
+- calculo n 2
+- calculo n2
+- calculo nii
+- calculo n ii
+- cálculo n 2
+- cálculo n2
+- cálculo nii
+- cálculo n ii
+- calculo 2
+- caclulo2
+- caclulo 2
+- calculo2
+- calculoii
+- cn2
+- cnii
+
+## synonym:Introdução à Ciência da Computação
+- icc
+- intodução a ciência da computação
+- introducao à ciencia da computaçao
+- introducão à ciencia da computaçao
+- introducao à ciência da computaçao
+- introducão à ciencia da computação
+- introdução a ciência da computação
+- introdução à ciência da computação
+- introdução a cc
+- introducão a cc
+- introduçao a cc
+- introdução à cc
+- introducao a cc
+- introducao à cc
+- ciencia da computação
+- ciencia da comp
+- introducao à ciencia da comp
+- introducão à ciencia da comp
+- introducao à ciência da comp
+- introducão à ciencia da comp
+- introdução a ciência da comp
+- introdução à ciência da comp
+
+## synonym:Introdução à Programação I
+- ip
+- ipi
+- ip i
+- ip1
+- ip 1
+- prog1
+- prog 1
+- programação1
+- programação 1
+- programaçao1
+- programaçao 1
+- programacao1
+- programacao 1
+- programacão1
+- programacão 1
+- porgramação1
+- porgramação 1
+- porgramaçao1
+- porgramaçao 1
+- porgramacao1
+- porgramacao 1
+- porgramacão1
+- porgramacão 1
+- progi
+- prog i
+- porg i
+- porg 1
+- programaçãoi
+- programação i
+- programaçaoi
+- programaçao i
+- programacaoi
+- programacao i
+- programacãoi
+- programacão i
+- introdução à programação i
+- introdução a programação i
+- introdução à programação 1
+- introdução a programação 1
+- introdução à programação
+- introdução a programação
+- programação
+- progamação
+- programaçao
+- progarmaçao
+- porgramacao
+- programacao
+- programacão
+- programacão
+- porgramação
+- porgraamção
+- porgramaçao
+- porgramaçao
+- porgramacao
+- porgramacao
+- porgramacão
+- porgramacão
+
+## synonym:Introdução à Programação II
+- ipii
+- ip ii
+- ip2
+- ip 2
+- prog2
+- prog 2
+- programação2
+- programação 2
+- programaçao2
+- programaçao 2
+- programacao2
+- programacao 2
+- programacão2
+- programacão 2
+- porgramação2
+- porgramação 2
+- porgramaçao2
+- porgramaçao 2
+- porgramacao2
+- porgramacao 2
+- porgramacão2
+- porgramacão 2
+- progii
+- prog ii
+- porg ii
+- porg 1i
+- programaçãoii
+- programação ii
+- programaçaoii
+- programaçao ii
+- programacaoii
+- programacao ii
+- programacãoii
+- programacão ii
+- introdução à programação ii
+- introdução a programação ii
+- introdução à programação 2
+- introdução a programação 2
+
+## synonym:Matemática Discreta I
+- matematicadiscreta
+- matemáticadiscreta
+- matematica discreta
+- matemática discreta
+- discreta
+- matematica discreta1
+- matematica discreta 1
+- matemática discreta 1
+- discreta1
+- discreta 1
+- matematicadiscretai
+- matematica discretai
+- matematica discreta i
+- matemáticadiscretai
+- matemática discretai
+- matemática discreta i
+- discreta i
+- discretas 1
+- mat discreta 1
+- math discreta 1
+- mat discreta
+- math discreta
+- md1
+- mdi
+
+## synonym:Matemática Discreta II
+- matematica discreta2
+- matematica discreta 2
+- matemática discreta 2
+- discreta2
+- discreta 2
+- matematicadiscretaii
+- matematica discretaii
+- matematica discreta ii
+- matemáticadiscretaii
+- matemática discretaii
+- matemática discreta ii
+- discreta ii
+- discretas 2
+- mat discreta 2
+- math discreta 2
+- mat discreta ii
+- math discreta ii
+- md2
+- mdii
+
+## synonym:Metodologia Cientifica Aplicada à Computação
+- metodologia cientifica aplicada à computação
+- metodologia cientifica aplicada a computação
+- metodologia cientifica aplicada à comp
+- metodologia cientifica aplicada a comp
+- metodologia científica aplicada à computação
+- metodologia científica aplicada a computação
+- metodologia científica aplicada à comp
+- metodologia científica aplicada a comp
+- metodologia
+- metodologia cientifica
+- metodologia científica
+- mcaac
+- mcac
+- mc
+
+## synonym:Algoritmos e Estruturas de Dados
+- algoritmos
+- algo
+- algorit
+- algoritmos e estrutura de dados
+- algorítmos e estrutura de dados
+- pericles
+- péricles
+- algoritmo
+- algoritmo e estrutura de dados
+- algoritmos e estrutura de dado
+- algoritmo e estrutura de dado
+- algoritmos e estrutura de dados
+- pericleiton
+- algoritmo e estruturas de dados
+- algoritmos e estruturas de dado
+- algoritmo e estruturas de dado
+- algoritmo e estruturas
+- algoritmo e estrutura
+- aed
+
+## synonym:Circuitos Digitais
+- circuitos
+- circuitos digitais
+- circuitos digitiais
+- circuito
+- circuito digitiais
+- circuito digital
+- circuito digitais
+- circuiots
+- cd
+
+## synonym:Estatística Exploratória
+- estatistica
+- estatpistica
+- estatística
+- estatística exploratória
+- estatística exploratoria
+- estatistica exploratória
+- estatistica exploratoria
+- estatis
+- est
+- ee

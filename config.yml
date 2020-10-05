@@ -10,11 +10,13 @@ pipeline:
     analyzer: "char_wb"
     min_ngram: 1
     max_ngram: 4
+  - name: CRFEntityExtractor
   - name: DIETClassifier
+    entity_recognition: false
     epochs: 100
   - name: EntitySynonymMapper
   - name: ResponseSelector
-    epochs: 100
+    epochs: 200
 
 # Configuration for Rasa Core.
 # https://rasa.com/docs/rasa/core/policies/

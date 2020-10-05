@@ -64,7 +64,6 @@ entities:
 - trabalho
 - estágio
 - optativa
-
 slots:
   facilitytype:
     type: text

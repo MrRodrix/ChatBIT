@@ -7,10 +7,11 @@
   - utter_saudar
   * help
     - utter_help
+
 ## saudar 3
 * start
   - utter_saudar
-  
+
 ## saber criador
 * saber_criador
   - utter_criador
@@ -26,7 +27,7 @@
 ## help
 * help
   - utter_help
-  
+
 ## piada path negativo
 * piada
   - utter_piada
@@ -57,7 +58,6 @@
   - utter_deseja_categorias
     * aceitar
       - utter_divisao_att_comp
-
 
 ## carga complementar path nao
 * duvida_carga_horaria_complementar
@@ -164,3 +164,24 @@
 ## aceitar por nada
 * aceitar
   - utter_ok
+
+## New Story
+
+* saudar
+    - utter_saudar
+* help
+    - utter_help
+* empresa_ch_complementar{"trabalho":"trabalhei","empresa":"lugar","horas":"horas","ch_complementar":"atividade complementar"}
+    - utter_empresa_ch_complementar
+    - utter_ajudou
+* aceitar
+    - utter_ok
+
+## New Story
+
+* saudar
+    - utter_saudar
+* saber_criador
+    - utter_criador
+* agradecer
+    - utter_disponha
