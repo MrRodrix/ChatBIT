@@ -1,12 +1,3 @@
-# This files contains your custom actions which can be used to run
-# custom Python code.
-#
-# See this guide on how to implement these action:
-# https://rasa.com/docs/rasa/core/actions/#custom-actions/
-
-
-# This is a simple example for a custom action which utters "Hello World!"
-
 from typing import Any, Text, Dict, List
 
 from rasa_sdk import Action, Tracker
@@ -35,19 +26,27 @@ class Prereq(Action):
         #carrega csv com ementas
         disciplinas = pd.read_csv("files/ementas.csv")
         #pesquisa os prereq pra aquela disciplina
+        requisitos=0.0
         try:
             requisitos=disciplinas[disciplinas['DISCIPLINA']==cadeira]['PRÉ-REQUISITOS'].values[0]
             pass
         except:
             dispatcher.utter_message(text="Não encontrei a disciplina \""+cadeira+"\" no meu banco de dados")
-            pass
-        #se nao for float (padrão para não existe pre req)
+            return [SlotSet("facilitytype", "")]
+        #se nao for float (padrão para 'não existe pre req')
         if type(requisitos)!=float:
             #splito a string de prereqs
-            vec=requisitos.split(",")
+            #se for ESO é splitado por *
+            if(requisitos == 'Estágio Supervisionado Obrigatório I' or requisitos == 'Estágio Supervisionado Obrigatório II'):
+                vec=requisitos.split("*")
+            #se nao for ESO é splitado por ","
+            else:
+                vec=requisitos.split(",")
+            #prepara o output para a cadeira e os requisitos
             output = "Os pré requisitos para " + str(cadeira) + " são:\n"
             for i in range(0, len(vec)):
                 output+=str(i+1)+". "+vec[i]+"\n"
+        #caso contrario n tem prereq
         else:
             output= "A disciplina " + str(cadeira) + " não possui pré requisitos"
         #enviar output e zerar a entidade disciplina

@@ -53,7 +53,7 @@
 - pre-req [prog2](facilitytype)
 - pre-reqs [Programação 2](facilitytype)
 - pre requisitos [álgebra linear](facilitytype)
-- quero saber os [pré-requisitos] para [IA](facilitytype)
+- quero saber os pré-requisitos para [IA](facilitytype)
 - quais são as cadeiras que eu tenho que ter pago para pagar [redes](facilitytype)
 - requisitos [redes de computadores](facilitytype)
 - qual prereq p [sistemas distribuidos](facilitytype)
@@ -71,7 +71,242 @@
 - pre-reqs [péricles](facilitytype)
 - pre requisitos [redes neurais](facilitytype)
 - pré-requisitos [Cálculo N II](facilitytype)
+- quero saber os pré-requisitos para [inteligencia artificial](facilitytype)
+- quais são as cadeiras que eu tenho que ter pago para pagar [inteligência artificial](facilitytype)
+- requisitos [ia](facilitytype)
+- qual prereq p [intelignecia aritifical](facilitytype)
+- pré-requisitos para [intelignecia artificial](facilitytype)
+- pré requisitos p/ [inteligencia artifiical](facilitytype)
+- eu tenho que ter pago quais cadeiras para pagar [intelignecia artifiical](facilitytype)
+- prereq [cálculo](facilitytype)
+- prereqs [calculo](facilitytype)
+- quais prereqs [calc](facilitytype)
+- [calc n 1](facilitytype) tem algum requisito?
+- para pagar a cadeira [calc n1](facilitytype) preciso ter [pago quais cadeiras]?
+- quais disciplinas devo ter cursado para cursar [calc ni](facilitytype)
+- oq pagar para poder fazer [calc n i](facilitytype)
+- pre-req [calculo n 1](facilitytype)
+- pre-reqs [calculo n1](facilitytype)
+- pre requisitos [álgebra linear](facilitytype)
+- quero saber os pré-requisitos para [calculo n i](facilitytype)
+- quais são as cadeiras que eu tenho que ter pago para pagar [cálculo n 1](facilitytype)
+- requisitos [cálculo n1](facilitytype)
+- qual prereq p [cálculo ni](facilitytype)
+- pré-requisitos para [arq](facilitytype)
+- pré requisitos p/ [cálculo n i](facilitytype)
+- eu tenho que ter pago quais cadeiras para pagar [calculo1](facilitytype)
+- prereq [caclulo](facilitytype)
+- prereqs [cn1](facilitytype)
+- quais prereqs [cni](facilitytype)
+- [cálculo ii](facilitytype) tem algum requisito?
+- para pagar a cadeira [calculo ii](facilitytype) preciso ter pago quais cadeiras?
+- quais disciplinas devo ter cursado para cursar [calc ii](facilitytype)
+- oq pagar para poder fazer [calc n 2](facilitytype)
+- pre-req [calc n2](facilitytype)
+- pre-reqs [calc nii](facilitytype)
+- pre requisitos [calc n ii](facilitytype)
+- pré-requisitos [calculo n 2](facilitytype)
+- me diga os pré requisitos para  [calculo n2](facilitytype)
+- quero saber os pré requisitos p [calculo nii](facilitytype)
+- quero cursar [calculo n ii](facilitytype) quais cadeiras devo ter pago?
+- Pré requisitos para [cálculo n 2](facilitytype)
+- me informe sobre os requisitos para [cálculo n2](facilitytype)
+- quero saber os pré-requisitos para [cálculo nii](facilitytype)
+- quais são as cadeiras que eu tenho que ter pago para pagar [cálculo n ii](facilitytype)
+- requisitos [calculo 2](facilitytype)
+- qual prereq p [caclulo2](facilitytype)
+- pré-requisitos para [caclulo 2](facilitytype)
+- pré requisitos p/ [calculo2](facilitytype)
+- eu tenho que ter pago quais cadeiras para pagar [calculoii](facilitytype)
+- prereq [cn2](facilitytype)
+- prereqs [cnii](facilitytype)
+- quais prereqs [icc](facilitytype)
+- [intodução a ciência da computação](facilitytype) tem algum requisito?
+- para pagar a cadeira [introducao à ciencia da computaçao](facilitytype) preciso ter [pago quais cadeiras]?
+- quais disciplinas devo ter cursado para cursar [introducão à ciencia da computaçao](facilitytype)
+- oq pagar para poder fazer [introdução a ciência da computação](facilitytype)
+- pre-req [introdução à ciência da computação](facilitytype)
+- pre-reqs [introdução a cc](facilitytype)
+- pre requisitos [introducão a cc](facilitytype)
+- quero saber os pré-requisitos para [introducao à cc](facilitytype)
+- quais são as cadeiras que eu tenho que ter pago para pagar [introducao a cc](facilitytype)
+- requisitos [ciencia da computação](facilitytype)
+- qual prereq p [ciencia da comp](facilitytype)
+- pré-requisitos para [introducao à ciencia da comp](facilitytype)
+- pré requisitos p/ [introducão à ciencia da comp](facilitytype)
+- eu tenho que ter pago quais cadeiras para pagar [introducao à ciência da comp](facilitytype)
+- prereq [introdução à ciência da comp](facilitytype)
+- prereqs [ip](facilitytype)
+- quais prereqs [ipi](facilitytype)
+- [ip i](facilitytype) tem algum requisito?
+- para pagar a cadeira [ip 1](facilitytype) preciso ter pago quais cadeiras?
+- quais disciplinas devo ter cursado para cursar [prog1](facilitytype)
+- oq pagar para poder fazer [programação1](facilitytype)
+- pre-req [programação 1](facilitytype)
+- pre-reqs [programação](facilitytype)
+- pre requisitos [porgramacão 1](facilitytype)
+- pré-requisitos [progi](facilitytype)
+- me diga os pré requisitos para  [prog i](facilitytype)
+- quero saber os pré requisitos p [porg i](facilitytype)
+- quero cursar [porg 1](facilitytype) quais cadeiras devo ter pago?
+- Pré requisitos para [programaçãoi](facilitytype)
+- me informe sobre os requisitos para [introdução à programação i](facilitytype)
+- quero saber sobre os pre requisitos de [ntrodução à programação 1](facilitytype)
+- quais os pré requisitos para [introdução a programação](facilitytype)
+- para cursar [programacão](facilitytype) eu preciso ter pago o que?
+- para cursar [porgramação](facilitytype) eu preciso ter pago quais cadeiras?
+- para cursar [porgramaçao](facilitytype) eu preciso ter cursado o que?
+- para cursar [porgramacão](facilitytype) eu preciso ter cursado quais cadeiras?
+- estou com vontade de me inscrever em [](facilitytype), como faço pra saber os pré requisitos?
+- como eu faço pra saber os pré requisitos de [ipii](facilitytype)
+- estou afim que vc me diga os requisitos de [ip ii](facilitytype)
+- me fale as cadeiras q eu preciso ter pago pra cursar [ip2](facilitytype)
+- me diga sobre oq eu preciso ter cursado pra fazer [ip 2](facilitytype)
+- quais cadeiras pra fazer [prog2](facilitytype)
+- quais que são os pré requisitos para [programação2](facilitytype)
+- onde eu posso saber sobre os pre requisitos de [porgramaçao2](facilitytype)
+- quero saber os pré-requisitos para [introdução à programação 2](facilitytype)
+- quais são as cadeiras que eu tenho que ter pago para pagar [introdução à programação ii](facilitytype)
+- requisitos [introdução a programação 2](facilitytype)
+- qual prereq p [matematicadiscreta](facilitytype)
+- pré-requisitos para [matemáticadiscreta](facilitytype)
+- pré requisitos p/ [matematica discreta](facilitytype)
+- eu tenho que ter pago quais cadeiras para pagar [discreta](facilitytype)
+- prereq [matematicadiscretai](facilitytype)
+- prereqs [matemática discreta i](facilitytype)
+- quais prereqs [mat discreta 1](facilitytype)
+- [math discreta 1](facilitytype) tem algum requisito?
+- para pagar a cadeira [math discreta](facilitytype) preciso ter [pago quais cadeiras]?
+- quais disciplinas devo ter cursado para cursar [md1](facilitytype)
+- oq pagar para poder fazer [mdi](facilitytype)
+- pre-req [matematica discreta2](facilitytype)
+- pre-reqs [discreta2](facilitytype)
+- pre requisitos [matematicadiscretaii](facilitytype)
+- quero saber os pré-requisitos para [md2](facilitytype)
+- quais são as cadeiras que eu tenho que ter pago para pagar [mdii](facilitytype)
+- requisitos [metodologia cientifica aplicada à computação](facilitytype)
+- qual prereq p [metodologia cientifica aplicada a computação](facilitytype)
+- pré-requisitos para [metodologia cientifica aplicada à comp](facilitytype)
+- pré requisitos p/ [metodologia](facilitytype)
+- eu tenho que ter pago quais cadeiras para pagar [metodologia cientifica](facilitytype)
+- prereq [mcaac](facilitytype)
+- prereqs [mcac](facilitytype)
+- quais prereqs [mc](facilitytype)
+- [algoritmos](facilitytype) tem algum requisito?
+- para pagar a cadeira [algo](facilitytype) preciso ter pago quais cadeiras?
+- quais disciplinas devo ter cursado para cursar [algorit](facilitytype)
+- oq pagar para poder fazer [algoritmos e estrutura de dados](facilitytype)
+- pre-req [algoritmo](facilitytype)
+- pre-reqs [algoritmo e estrutura de dados](facilitytype)
+- pre requisitos [algoritmos e estrutura de dados](facilitytype)
+- pré-requisitos [algoritmo e estruturas de dado](facilitytype)
+- me diga os pré requisitos para  [algoritmo e estruturas de dados](facilitytype)
+- quero saber os pré requisitos p [aed](facilitytype)
+- quero cursar [algoritmo e estrutura](facilitytype) quais cadeiras devo ter pago?
+- Pré requisitos para [algoritmo e estruturas](facilitytype)
+- me informe sobre os requisitos para [circuitos](facilitytype)
+- quero saber sobre os pre requisitos de [circuitos digitais](facilitytype)
+- quais os pré requisitos para [circuitos digitiais](facilitytype)
+- para cursar [circuito](facilitytype) eu preciso ter pago o que?
+- para cursar [circuiots](facilitytype) eu preciso ter pago quais cadeiras?
+- para cursar [cd](facilitytype) eu preciso ter cursado o que?
+- para cursar [estatistica](facilitytype) eu preciso ter cursado quais cadeiras?
+- estou com vontade de me inscrever em [estatpistica](facilitytype), como faço pra saber os pré requisitos?
+- como eu faço pra saber os pré requisitos de [estatística exploratória](facilitytype)
+- estou afim que vc me diga os requisitos de [estatis](facilitytype)
+- me fale as cadeiras q eu preciso ter pago pra cursar [est](facilitytype)
+- me diga sobre oq eu preciso ter cursado pra fazer [ee](facilitytype)
+- quais cadeiras pra fazer [estatistica exploratoria](facilitytype)
+- quais que são os pré requisitos para [projeto e análise de algoritmos](facilitytype)
+- onde eu posso saber sobre os pre requisitos de [Introdução à Programação II](facilitytype)
+- quero saber os pré-requisitos para [física](facilitytype)
+- quais são as cadeiras que eu tenho que ter pago para pagar [fisica](facilitytype)
+- requisitos [fisica iii](facilitytype)
+- qual prereq p [física aplicada a computação](facilitytype)
+- pré-requisitos para [fisica aplicada a computacao](facilitytype)
+- pré requisitos p/ [f](facilitytype)
+- eu tenho que ter pago quais cadeiras para pagar [f 3](facilitytype)
+- prereq [f iii](facilitytype)
+- prereqs [f3](facilitytype)
+- quais prereqs [fac](facilitytype)
+- [Projeto e Análise de Algoritmos](facilitytype) tem algum requisito?
+- para pagar a cadeira [paa](facilitytype) preciso ter [pago quais cadeiras]?
+- quais disciplinas devo ter cursado para cursar [projeto e analise de algo](facilitytype)
+- oq pagar para poder fazer [projeto e analise de algorit](facilitytype)
+- pre-req [proj e analise de algoritmo](facilitytype)
+- pre-reqs [teoria](facilitytype)
+- pre requisitos [teoria da comp](facilitytype)
+- quero saber os pré-requisitos para [tc](facilitytype)
+- quais são as cadeiras que eu tenho que ter pago para pagar [teoria da computacão](facilitytype)
+- requisitos [arq](facilitytype)
+- qual prereq p [arquitetura de computadores](facilitytype)
+- pré-requisitos para [arq de computadores](facilitytype)
+- pré requisitos p/ [arquitetura](facilitytype)
+- eu tenho que ter pago quais cadeiras para pagar [aoc](facilitytype)
+- prereq [ac](facilitytype)
+- prereqs [arquitetura](facilitytype)
+- quais prereqs [arquitetura e organização de computadores](facilitytype)
+- [arquitetura](facilitytype) tem algum requisito?
+- para pagar a cadeira [aoc](facilitytype) preciso ter pago quais cadeiras?
+- quais disciplinas devo ter cursado para cursar [ac](facilitytype)
+- oq pagar para poder fazer [bd](facilitytype)
+- pre-req [banco de dados](facilitytype)
+- pre-reqs [banco](facilitytype)
+- pre requisitos [banco de dados s](facilitytype)
+- pré-requisitos [banco s](facilitytype)
+- me diga os pré requisitos para  [bds](facilitytype)
+- quero saber os pré requisitos p [eng](facilitytype)
+- quero cursar [engenharia](facilitytype) quais cadeiras devo ter pago?
+- Pré requisitos para [engenhariad e software](facilitytype)
+- me informe sobre os requisitos para [eng soft](facilitytype)
+- quero saber sobre os pre requisitos de [paradigmas](facilitytype)
+- quais os pré requisitos para [pp](facilitytype)
+- para cursar [Paradigmas de Programação](facilitytype) eu preciso ter pago o que?
+- para cursar [Paradigmas da Programaçao](facilitytype) eu preciso ter pago quais cadeiras?
+- para cursar [Paradigmas Programaçao](facilitytype) eu preciso ter cursado o que?
+- para cursar [redes](facilitytype) eu preciso ter cursado quais cadeiras?
+- estou com vontade de me inscrever em [rc](facilitytype), como faço pra saber os pré requisitos?
+- como eu faço pra saber os pré requisitos de [redes de pc](facilitytype)
+- estou afim que vc me diga os requisitos de [rede de computadores](facilitytype)
+- me fale as cadeiras q eu preciso ter pago pra cursar [rede](facilitytype)
+- me diga sobre oq eu preciso ter cursado pra fazer [c](facilitytype)
+- quais cadeiras pra fazer [compilador](facilitytype)
+- quais que são os pré requisitos para [compiladores](facilitytype)
+- onde eu posso saber sobre os pre requisitos de [pds](facilitytype)
 
+- quero saber os pré-requisitos para [projeto e desenvolvimento de software](facilitytype)
+- quais são as cadeiras que eu tenho que ter pago para pagar [projeto e desenvolvimento de soft](facilitytype)
+- requisitos [proj de desenvolvimento de soft](facilitytype)
+- qual prereq p [desenvolvimento de soft](facilitytype)
+- pré-requisitos para [sd](facilitytype)
+- pré requisitos p/ [sistemas Distribuídos](facilitytype)
+- eu tenho que ter pago quais cadeiras para pagar [distribuídos](facilitytype)
+- prereq [sistemas distribuido](facilitytype)
+- prereqs [so](facilitytype)
+- quais prereqs [sistemas operacionais](facilitytype)
+- [sistema operarional](facilitytype) tem algum requisito?
+- para pagar a cadeira [alg](facilitytype) preciso ter pago quais cadeiras]
+- quais disciplinas devo ter cursado para cursar [álg](facilitytype)
+- oq pagar para poder fazer [algebra](facilitytype)
+- pre-req [algebra vetorial e linear para computação](facilitytype)
+- pre-reqs [avlpc](facilitytype)
+- pre requisitos [avlc](facilitytype)
+- [ef](facilitytype) tem algum requisito?
+- para pagar a cadeira [edf](facilitytype) preciso ter pago quais cadeiras?
+- Pré requisitos para [educação fisica](facilitytype)
+- me informe sobre os requisitos para [edf a](facilitytype)
+- quero saber sobre os pre requisitos de [edf](facilitytype)
+
+- quero saber os pré-requisitos para [eso](estagio)
+- quais são as cadeiras que eu tenho que ter pago para pagar [eso1](estagio)
+- requisitos [eso 1](estagio)
+- qual prereq p [esoi](estagio)
+- pré-requisitos para [estágio obrigatório](estagio)
+- pré requisitos p/ [estágio obrigatório i](estagio)
+- eu tenho que ter pago quais cadeiras para pagar [estágio supervisionado obrigatório i](estagio)
+- prereq [eso2](estagio)
+- prereqs [estágio obrigatório ii](estagio)
+- quais prereqs [estágio supervisionado obrigatório ii](estagio)
 
 ## intent:piada
 - sabe alguma [piada](piada)
@@ -439,6 +674,10 @@
 - introducão à ciencia da comp
 - introdução a ciência da comp
 - introdução à ciência da comp
+- introducao a ciencia da computacao
+- introdução a ciencia da computação
+- introducao a ciencia da computaçao
+- introducão a ciencia da computação
 
 ## synonym:Introdução à Programação I
 - ip
@@ -645,3 +884,236 @@
 - estatis
 - est
 - ee
+
+
+## synonym:Física Aplicada a Computação
+- física
+- fisica
+- fisica iii
+- física iii
+- física 3
+- fisica 3
+- física aplicada a computação
+- fisica aplicada a computação
+- fisica Aplicada a Computacão
+- Fisica Aplicada a Computaçao
+- fisica aplicada a computacao
+- física aplicada a computação
+- física aplicada a computação
+- física Aplicada a Computacão
+- Física Aplicada a Computaçao
+- física aplicada a computacao
+- f
+- fiii
+- f 3
+- f iii
+- fac
+- f3
+
+## synonym:Projeto e Análise de Algoritmos
+- Projeto e Análise de Algoritmos
+- projeto e analise de algoritmos
+- paa
+- projeto e analise de algo
+- projeto e analise de algorit
+- proj e analise de algo
+- proj e analise de algoritmo
+- porjeto e analise de algoritmo
+
+## synonym:Teoria da Computação
+- teoria
+- teoria da comp
+- teoria da computação
+- teoria da computacao
+- teoria da computaçao
+- teoria da computacão
+- tc
+
+## synonym:Arquitetura e Organização de Computadores
+- arq
+- arquitetura de computadores
+- arq de computadores
+- organização de computadores
+- arquitetura e organização de computadores
+- arquitetura e organizacao de computadores
+- arquitetura e organizacão de computadores
+- arquitetura e organizaçao de computadores
+- arquitetura
+- aoc
+- ac
+
+## synonym:Banco de Dados S
+- bd
+- banco de dados
+- banco
+- banco de dados s
+- bds
+- banco s
+- banco de dados s
+
+## synonym:Engenharia de Software
+- eng
+- engenharia
+- Engenharia de Software
+- es
+- engenhariad e software
+- engenharia de soft
+- eng de soft
+- eng de software
+- eng soft
+- engenharia software
+
+## synonym:Paradigmas de Programação
+- paradigmas
+- pp
+- Paradigmas de Programação
+- Paradigmas da Programação
+- Paradigmas de Programacao
+- Paradigmas da Programacao
+- Paradigmas de Programacão
+- Paradigmas da Programacão
+- Paradigmas de Programaçao
+- Paradigmas da Programaçao
+- Paradigmas Programação
+- Paradigmas Programação
+- Paradigmas Programacao
+- Paradigmas Programacao
+- Paradigmas Programacão
+- Paradigmas Programacão
+- Paradigmas Programaçao
+- Paradigmas Programaçao
+
+## synonym:Redes de Computadores
+- redes
+- rc
+- redes de computadores
+- redes de pc
+- rede de computadores
+- rede
+- redes de computador
+- rede de computador
+- redes de computador
+
+## synonym:Compiladores
+- c
+- compilador
+- compiladores
+
+## synonym:Projeto de Desenvolvimento de Software
+- pds
+- projeto e desenvolvimento de software
+- projeto e desenvolvimento de soft
+- proj e desenvolvimento de software
+- proj e desenvolvimento de soft
+- projeto de desenvolvimento de software
+- projeto de desenvolvimento de soft
+- proj de desenvolvimento de software
+- proj de desenvolvimento de soft
+- desenvolvimento de software
+- desenvolvimento de soft
+
+## synonym:Sistemas Distribuidos
+- sd
+- sistemas Distribuídos
+- sistemas distribuidos
+- distribuidos
+- sistema Distribuídos
+- sistemas Distribuído
+- sistema Distribuído
+- sistema distribuido
+- sistema distribuidos
+- sistemas distribuido
+- distribuídos
+
+## synonym:Sistemas Operacionais
+- so
+- sistemas operacionais
+- sistema operarional
+- sistema operacional
+- sistema opercional
+- sistema opercaional
+
+## synonym:Álgebra Vetorial e Linear para Computação
+- alg
+- álg
+- algebra
+- álgebra
+- algebra vetorial e linear
+- álgebra vetorial e linear
+- algebra linear e vetorial
+- álgebra linear e vetorial
+- algebra vetorial e linear para computação
+- álgebra vetorial e linear para computação
+- algebra linear e vetorial para computação
+- álgebra linear e vetorial para computação
+- avlpc
+- avlc
+
+## synonym:Estágio Supervisionado Obrigatório I
+- eso
+- eso1
+- eso 1
+- esoi
+- eso i
+- estágio obrigatório
+- estágio obrigatorio
+- estagio obrigatório
+- estagio obrigatorio
+- estágio obrigatório i
+- estágio obrigatorio i
+- estagio obrigatório i
+- estagio obrigatorio i
+- estágio obrigatório 1
+- estágio obrigatorio 1
+- estagio obrigatório 1
+- estagio obrigatorio 1
+- estágio supervisionado obrigatório i
+- estagio supervisionado obrigatório i
+- estágio supervisionado obrigatorio i
+- estagio supervisionado obrigatorio i
+- estágio supervisionado obrigatório 1
+- estagio supervisionado obrigatório 1
+- estágio supervisionado obrigatorio 1
+- estagio supervisionado obrigatorio 1
+- estágio supervisionado obrigatório
+- estagio supervisionado obrigatório
+- estágio supervisionado obrigatorio
+- estagio supervisionado obrigatorio
+
+## synonym:Estágio Supervisionado Obrigatório I
+- eso2
+- eso 2
+- esoii
+- eso ii
+- estágio obrigatório ii
+- estágio obrigatorio ii
+- estagio obrigatório ii
+- estagio obrigatorio ii
+- estágio obrigatório 2
+- estágio obrigatorio 2
+- estagio obrigatório 2
+- estagio obrigatorio 2
+- estágio supervisionado obrigatório ii
+- estagio supervisionado obrigatório ii
+- estágio supervisionado obrigatorio ii
+- estagio supervisionado obrigatorio ii
+- estágio supervisionado obrigatório 2
+- estagio supervisionado obrigatório 2
+- estágio supervisionado obrigatorio 2
+- estagio supervisionado obrigatorio 2
+
+## synonym:Educação Física A
+- ef
+- edf
+- efa
+- ef a
+- edf a
+- edfa
+- educação fisica
+- educação física
+- educacao fisica
+- educaçao fisica
+- educacão fisica
+- educaçao física
+- educacao física
+- educação física
