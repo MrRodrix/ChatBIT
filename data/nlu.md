@@ -296,17 +296,18 @@
 - Pré requisitos para [educação fisica](facilitytype)
 - me informe sobre os requisitos para [edf a](facilitytype)
 - quero saber sobre os pre requisitos de [edf](facilitytype)
+- quero saber os pré-requisitos para [eso](facilitytype)
+- quais são as cadeiras que eu tenho que ter pago para pagar [eso1](facilitytype)
+- requisitos [eso 1](facilitytype)
+- qual prereq p [esoi](facilitytype)
+- pré-requisitos para [estágio obrigatório](facilitytype)
+- pré requisitos p/ [estágio obrigatório i](facilitytype)
+- eu tenho que ter pago quais cadeiras para pagar [estágio supervisionado obrigatório i](facilitytype)
+- prereq [eso2](facilitytype)
+- prereqs [estágio obrigatório ii](facilitytype)
+- quais prereqs [estágio supervisionado obrigatório ii](facilitytype)
 
-- quero saber os pré-requisitos para [eso](estagio)
-- quais são as cadeiras que eu tenho que ter pago para pagar [eso1](estagio)
-- requisitos [eso 1](estagio)
-- qual prereq p [esoi](estagio)
-- pré-requisitos para [estágio obrigatório](estagio)
-- pré requisitos p/ [estágio obrigatório i](estagio)
-- eu tenho que ter pago quais cadeiras para pagar [estágio supervisionado obrigatório i](estagio)
-- prereq [eso2](estagio)
-- prereqs [estágio obrigatório ii](estagio)
-- quais prereqs [estágio supervisionado obrigatório ii](estagio)
+
 
 ## intent:piada
 - sabe alguma [piada](piada)
@@ -516,44 +517,44 @@
 - [coordenação](coordenacao) [contatos](contato)
 
 ## intent:dispensar_estagio
-- como [dispensar](dispensar) [estágio](estagio)
-- fiz uma [iniciação cientifica](ic) posso pedir [dispensa](dispensar) do [ESO](estagio)
-- sob quais circunstâncias posso pedir pra ser [dispensado](dispensar) do [Estágio Supervisionado](estagio)
-- posso pedir [dispensa](dispensar) do [Estágio Supervisionado Obrigatório](estagio)?
-- quero [dispensa](dispensar) do [ESO II](estagio)
-- eu posso pedir [dispensa](dispensar) do [estagio obrigatorio](estagio)?
-- [estagio obrigatorio](estagio) [dispensa](dispensar)
-- [dispensar](dispensar) [Estágio Supervisionado Obrigatório](estagio)
-- se eu fizer uma [extensão](ic) posso pedir [dispensa](dispensar) do [ESO](estagio)
-- [monitoria](ic) garante [dispensa](dispensar) do [estagio obrigatorio](estagio)?
+- como [dispensar](dispensar) [estágio](facilitytype)
+- fiz uma [iniciação cientifica](ic) posso pedir [dispensa](dispensar) do [ESO](facilitytype)
+- sob quais circunstâncias posso pedir pra ser [dispensado](dispensar) do [Estágio Supervisionado](facilitytype)
+- posso pedir [dispensa](dispensar) do [Estágio Supervisionado Obrigatório](facilitytype)?
+- quero [dispensa](dispensar) do [ESO II](facilitytype)
+- eu posso pedir [dispensa](dispensar) do [estagio obrigatorio](facilitytype)?
+- [estagio obrigatorio](facilitytype) [dispensa](dispensar)
+- [dispensar](dispensar) [Estágio Supervisionado Obrigatório](facilitytype)
+- se eu fizer uma [extensão](ic) posso pedir [dispensa](dispensar) do [ESO](facilitytype)
+- [monitoria](ic) garante [dispensa](dispensar) do [estagio obrigatorio](facilitytype)?
 
 ## intent:cumprir_estagio
-- como [fazer](cursar) [Estágio Supervisionado Obrigatório](estagio)?
-- quais os [procedimentos](cursar) para o [estagio obrigatorio](estagio)?
-- quero [fazer](cursar) o [ESO](estagio), como proceder?
-- o que devo fazer para [realizar](cursar) [Estágio Supervisionado](estagio)
-- como [proceder](cursar) em relação ao [estágio](estagio)
-- [realizar](cursar) [estagio obrigatorio](estagio)
-- como [cursar](cursar) [Estágio Supervisionado Obrigatório](estagio)?
-- passos para [cumprir](cursar) o [Estágio Obrigatório](estagio)?
-- qual o passo a passo para me [inscrever](cursar) o [ESO I](estagio)
+- como [fazer](cursar) [Estágio Supervisionado Obrigatório](facilitytype)?
+- quais os [procedimentos](cursar) para o [estagio obrigatorio](facilitytype)?
+- quero [fazer](cursar) o [ESO](facilitytype), como proceder?
+- o que devo fazer para [realizar](cursar) [Estágio Supervisionado](facilitytype)
+- como [proceder](cursar) em relação ao [estágio](facilitytype)
+- [realizar](cursar) [estagio obrigatorio](facilitytype)
+- como [cursar](cursar) [Estágio Supervisionado Obrigatório](facilitytype)?
+- passos para [cumprir](cursar) o [Estágio Obrigatório](facilitytype)?
+- qual o passo a passo para me [inscrever](cursar) o [ESO I](facilitytype)
 
 ## intent:info_estagio
-- [oq é](whatis) [Estágio Supervisionado Obrigatório](estagio)?
-- [o que são](whatis) [ESO I](estagio)
-- [o que é](whatis) [estagio obrigatorio](estagio)
-- quero saber mais sobre [ESO](estagio)
-- me fale mais [Estágio Obrigatório](estagio)?
-- informações sobre [ESO II](estagio)
-- [o que é](whatis) [estagio obrigatorio](estagio)?
-- [oq são](whatis) [estagio obrigatório](estagio)?
-- [oq eh](whatis) [estágio obrigatorio](estagio)?
-- [oq q é](whatis) [estágio obrigatório](estagio)?
-- me fale mais sobre [Estágio Supervisionado Obrigatorio](estagio)?
-- quero saber mais a respeito de [Estagio Supervisionado Obrigatório](estagio)?
-- me explique [o que eh](whatis) [Estagio Supervisionado Obrigatorio](estagio)?
-- para que servem [eso](estagio)
-- pra que serve uma [ESOI](estagio)
+- [oq é](whatis) [Estágio Supervisionado Obrigatório](facilitytype)?
+- [o que são](whatis) [ESO I](facilitytype)
+- [o que é](whatis) [estagio obrigatorio](facilitytype)
+- quero saber mais sobre [ESO](facilitytype)
+- me fale mais [Estágio Obrigatório](facilitytype)?
+- informações sobre [ESO II](facilitytype)
+- [o que é](whatis) [estagio obrigatorio](facilitytype)?
+- [oq são](whatis) [estagio obrigatório](facilitytype)?
+- [oq eh](whatis) [estágio obrigatorio](facilitytype)?
+- [oq q é](whatis) [estágio obrigatório](facilitytype)?
+- me fale mais sobre [Estágio Supervisionado Obrigatorio](facilitytype)?
+- quero saber mais a respeito de [Estagio Supervisionado Obrigatório](facilitytype)?
+- me explique [o que eh](whatis) [Estagio Supervisionado Obrigatorio](facilitytype)?
+- para que servem [eso](facilitytype)
+- pra que serve uma [ESOI](facilitytype)
 
 ## intent:qlqr_momento_complementar
 - Eu posso dar [entrada](entrada) no processo das [atividades complementares](ch_complementar) a [qualquer momento](momento) durante o curso?
@@ -1081,6 +1082,8 @@
 - estagio supervisionado obrigatorio
 
 ## synonym:Estágio Supervisionado Obrigatório I
+- eeso2
+- eeso 2
 - eso2
 - eso 2
 - esoii
