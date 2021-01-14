@@ -1,11 +1,11 @@
 # ChatBIT
-Um projeto de PIBITI (Programa Institucional de Bolsas de Iniciação em Desenvolvimento Tecnológico e Inovação) da UFRPE
+Um projeto de PIBITI (Programa Institucional de Bolsas de Iniciação em Desenvolvimento Tecnológico e Inovação) da UFRPE que visa facilitar a consulta de informações contidas em documentos, faqs e site do curso de Ciência da Computação por meio de um chatbot integrado ao [Telegram](https://t.me/testePIBITIBot).
 
 ## Requisitos
 EM BREVE
 
-## RASA
-Foi utilizado o RASA para o desenvolvimento desse chatbot
+## Biblioteca
+Foi utilizado o [RASA](https://github.com/RasaHQ) para o desenvolvimento desse chatbot
 
 ## Contato
 rodriguesnt01@gmail.com ||
