@@ -607,7 +607,7 @@
 - inteligencia artifiical
 - intelignecia artifiical
 
-## synonym:Cálculo N I
+## synonym:Cálculo  NI
 - cálculo
 - calculo
 - calc
@@ -629,6 +629,8 @@
 - cni
 
 ## synonym:Cálculo N II
+- calc2
+- cálc2
 - cálculo ii
 - calculo ii
 - calc ii
@@ -943,7 +945,7 @@
 - aoc
 - ac
 
-## synonym:Banco de Dados S
+## synonym:Banco de Dados  S
 - bd
 - banco de dados
 - banco
@@ -1013,7 +1015,7 @@
 - desenvolvimento de software
 - desenvolvimento de soft
 
-## synonym:Sistemas Distribuidos
+## synonym:Sistemas Distribuídos
 - sd
 - sistemas Distribuídos
 - sistemas distribuidos
@@ -1120,3 +1122,763 @@
 - educaçao física
 - educacao física
 - educação física
+
+## synonym:Análise de Desempenho
+- analise
+- análise
+- ad
+- analise de desempenho
+- analíse de desempenho
+- analise de desemeenho
+- análise de demspenho
+- análise de desemeenho
+- analise de demspenho
+- analise de despenho
+- análise de despenho
+
+## synonym:Arquitetura Orientada a Serviços
+- aos
+- arq orientada
+- arq orientada a serviços
+- arq orientada a servicos
+- arq orient a serviços
+- arq orient a servicos
+- arquitetura orientada a serviços
+- arquitetura orientada a servicos
+
+## synonym:Arquiteturas Avançadas de Computadores
+- aac
+- arq avançada
+- arq avançadas
+- arq avançada de pc
+- arq avançadas de pcs
+- arq avançadas
+- arq avançadas de pc
+- arq avançada de pcs
+- arq avancada
+- arq avancadas
+- arq avancada de pc
+- arq avancadas de pcs
+- arq avancadas
+- arq avancadas de pc
+- arq avancada de pcs
+- arq avançada de computador
+- arq avançadas de computador
+- arq avançadas de computadores
+- arq avançada de computadores
+- arq avancada de computador
+- arq avancadas de computador
+- arq avancadas de computadores
+- arq avancada de computadores
+- arqs avançada
+- arqs avançadas
+- arqs avançada de pc
+- arqs avançadas de pcs
+- arqs avançadas
+- arqs avançadas de pc
+- arqs avançada de pcs
+- arqs avancada
+- arqs avancadas
+- arqs avancada de pc
+- arqs avancadas de pcs
+- arqs avancadas
+- arqs avancadas de pc
+- arqs avancada de pcs
+- arqs avançada de computador
+- arqs avançadas de computador
+- arqs avançadas de computadores
+- arqs avançada de computadores
+- arqs avancada de computador
+- arqs avancadas de computador
+- arqs avancadas de computadores
+- arqs avancada de computadores
+- arquitetura avançada
+- arquitetura avançadas
+- arquitetura avançada de pc
+- arquitetura avançadas de pcs
+- arquitetura avançadas
+- arquitetura avançadas de pc
+- arquitetura avançada de pcs
+- arquitetura avancada
+- arquitetura avancadas
+- arquitetura avancada de pc
+- arquitetura avancadas de pcs
+- arquitetura avancadas
+- arquitetura avancadas de pc
+- arquitetura avancada de pcs
+- arquitetura avançada de computador
+- arquitetura avançadas de computador
+- arquitetura avançadas de computadores
+- arquitetura avançada de computadores
+- arquitetura avancada de computador
+- arquitetura avancadas de computador
+- arquitetura avancadas de computadores
+- arquitetura avancada de computadores
+- arquiteturas avançada
+- arquiteturas avançadas
+- arquiteturas avançada de pc
+- arquiteturas avançadas de pcs
+- arquiteturas avançadas
+- arquiteturas avançadas de pc
+- arquiteturas avançada de pcs
+- arquiteturas avancada
+- arquiteturas avancadas
+- arquiteturas avancada de pc
+- arquiteturas avancadas de pcs
+- arquiteturas avancadas
+- arquiteturas avancadas de pc
+- arquiteturas avancada de pcs
+- arquiteturas avançada de computador
+- arquiteturas avançadas de computador
+- arquiteturas avançadas de computadores
+- arquiteturas avançada de computadores
+- arquiteturas avancada de computador
+- arquiteturas avancadas de computador
+- arquiteturas avancadas de computadores
+- arquiteturas avancada de computadores
+
+## synonym:Arquiteturas Não-convencionais
+- anc
+- an-c
+- arq nao convencional
+- arq nao-convencional
+- arq não convencional
+- arq não-convencional
+- arq nao convencionais
+- arq nao-convencionais
+- arq não convencionais
+- arq não-convencionais
+- arq n convencional
+- arq n-convencional
+- arq ñ convencional
+- arq n-convencional
+- arq n convencionais
+- arq n-convencionais
+- arq ñ convencionais
+- arq ñ-convencionais
+- arquitetura nao-convencional
+- arquitetura nao convencional
+- arquitetura não convencional
+- arquitetura não-convencional
+- arquitetura nao convencionais
+- arquitetura nao-convencionais
+- arquitetura não convencionais
+- arquitetura não-convencionais
+- arquitetura n convencional
+- arquitetura n-convencional
+- arquitetura ñ convencional
+- arquitetura n-convencional
+- arquitetura n convencionais
+- arquitetura n-convencionais
+- arquitetura ñ convencionais
+- arquitetura ñ-convencionais
+- arquiteturas nao-convencional
+- arquiteturas nao convencional
+- arquiteturas não convencional
+- arquiteturas não-convencional
+- arquiteturas nao convencionais
+- arquiteturas nao-convencionais
+- arquiteturas não convencionais
+- arquiteturas não-convencionais
+- arquiteturas n convencional
+- arquiteturas n-convencional
+- arquiteturas ñ convencional
+- arquiteturas n-convencional
+- arquiteturas n convencionais
+- arquiteturas n-convencionais
+- arquiteturas ñ convencionais
+- arquiteturas ñ-convencionais
+- arq nao convecional
+- arq nao-convecional
+- arq não convecional
+- arq não-convecional
+- arq nao convecionais
+- arq nao-convecionais
+- arq não convecionais
+- arq não-convecionais
+- arq n convecional
+- arq n-convecional
+- arq ñ convecional
+- arq n-convecional
+- arq n convecionais
+- arq n-convecionais
+- arq ñ convecionais
+- arq ñ-convecionais
+- arquitetura nao-convecional
+- arquitetura nao convecional
+- arquitetura não convecional
+- arquitetura não-convecional
+- arquitetura nao convecionais
+- arquitetura nao-convecionais
+- arquitetura não convecionais
+- arquitetura não-convecionais
+- arquitetura n convecional
+- arquitetura n-convecional
+- arquitetura ñ convecional
+- arquitetura n-convecional
+- arquitetura n convecionais
+- arquitetura n-convecionais
+- arquitetura ñ convecionais
+- arquitetura ñ-convecionais
+- arquiteturas nao-convecional
+- arquiteturas nao convecional
+- arquiteturas não convecional
+- arquiteturas não-convecional
+- arquiteturas nao convecionais
+- arquiteturas nao-convecionais
+- arquiteturas não convecionais
+- arquiteturas não-convecionais
+- arquiteturas n convecional
+- arquiteturas n-convecional
+- arquiteturas ñ convecional
+- arquiteturas n-convecional
+- arquiteturas n convecionais
+- arquiteturas n-convecionais
+- arquiteturas ñ convecionais
+- arquiteturas ñ-convecionais
+- arq nao covencional
+- arq nao-covencional
+- arq não covencional
+- arq não-covencional
+- arq nao covencionais
+- arq nao-covencionais
+- arq não covencionais
+- arq não-covencionais
+- arq n covencional
+- arq n-covencional
+- arq ñ covencional
+- arq n-covencional
+- arq n covencionais
+- arq n-covencionais
+- arq ñ covencionais
+- arq ñ-covencionais
+- arquitetura nao-covencional
+- arquitetura nao covencional
+- arquitetura não covencional
+- arquitetura não-covencional
+- arquitetura nao covencionais
+- arquitetura nao-covencionais
+- arquitetura não covencionais
+- arquitetura não-covencionais
+- arquitetura n covencional
+- arquitetura n-covencional
+- arquitetura ñ covencional
+- arquitetura n-covencional
+- arquitetura n covencionais
+- arquitetura n-covencionais
+- arquitetura ñ covencionais
+- arquitetura ñ-covencionais
+- arquiteturas nao-covencional
+- arquiteturas nao covencional
+- arquiteturas não covencional
+- arquiteturas não-covencional
+- arquiteturas nao covencionais
+- arquiteturas nao-covencionais
+- arquiteturas não covencionais
+- arquiteturas não-covencionais
+- arquiteturas n covencional
+- arquiteturas n-covencional
+- arquiteturas ñ covencional
+- arquiteturas n-covencional
+- arquiteturas n covencionais
+- arquiteturas n-covencionais
+- arquiteturas ñ covencionais
+- arquiteturas ñ-covencionais
+- arq nao covecional
+- arq nao-covecional
+- arq não covecional
+- arq não-covecional
+- arq nao covecionais
+- arq nao-covecionais
+- arq não covecionais
+- arq não-covecionais
+- arq n covecional
+- arq n-covecional
+- arq ñ covecional
+- arq n-covecional
+- arq n covecionais
+- arq n-covecionais
+- arq ñ covecionais
+- arq ñ-covecionais
+- arquitetura nao-covecional
+- arquitetura nao covecional
+- arquitetura não covecional
+- arquitetura não-covecional
+- arquitetura nao covecionais
+- arquitetura nao-covecionais
+- arquitetura não covecionais
+- arquitetura não-covecionais
+- arquitetura n covecional
+- arquitetura n-covecional
+- arquitetura ñ covecional
+- arquitetura n-covecional
+- arquitetura n covecionais
+- arquitetura n-covecionais
+- arquitetura ñ covecionais
+- arquitetura ñ-covecionais
+- arquiteturas nao-covecional
+- arquiteturas nao covecional
+- arquiteturas não covecional
+- arquiteturas não-covecional
+- arquiteturas nao covecionais
+- arquiteturas nao-covecionais
+- arquiteturas não covecionais
+- arquiteturas não-covecionais
+- arquiteturas n covecional
+- arquiteturas n-covecional
+- arquiteturas ñ covecional
+- arquiteturas n-covecional
+- arquiteturas n covecionais
+- arquiteturas n-covecionais
+- arquiteturas ñ covecionais
+- arquiteturas ñ-covecionais
+
+## synonym:Computação em Nuvem
+- cn
+- cen
+- computacao em nuvem
+- computacão em nuvem
+- computaçao em nuvem
+- computação em nuvem
+- nuvem
+
+## synonym:Desenvolvimento de Aplicações para TV
+- dapt
+- dat
+- daptv
+- ddapt
+- ddaptv
+- datv
+- desenvolvimento de app p tv
+- desenvolvimento de app p televisao
+- desenvolvimento de app p televisão
+- desenvolvimento de app p/ tv
+- desenvolvimento de app p/ televisao
+- desenvolvimento de app p/ televisão
+- desenvolvimento de aplicação p tv
+- desenvolvimento de aplicação p televisao
+- desenvolvimento de aplicação p televisão
+- desenvolvimento de aplicação p/ tv
+- desenvolvimento de aplicação p/ televisao
+- desenvolvimento de aplicação p/ televisão
+- desenvolvimento de aplicações p tv
+- desenvolvimento de aplicações p televisao
+- desenvolvimento de aplicações p televisão
+- desenvolvimento de aplicações p/ tv
+- desenvolvimento de aplicações p/ televisao
+- desenvolvimento de aplicações p/ televisão
+- desenvolvimento de aplicaçao p tv
+- desenvolvimento de aplicaçao p televisao
+- desenvolvimento de aplicaçao p televisão
+- desenvolvimento de aplicaçao p/ tv
+- desenvolvimento de aplicaçao p/ televisao
+- desenvolvimento de aplicaçao p/ televisão
+- desenvolvimento de aplicacão p tv
+- desenvolvimento de aplicacão p televisao
+- desenvolvimento de aplicacão p televisão
+- desenvolvimento de aplicacão p/ tv
+- desenvolvimento de aplicacão p/ televisao
+- desenvolvimento de aplicacão p/ televisão
+- desenvolvimento de aplicacao p tv
+- desenvolvimento de aplicacao p televisao
+- desenvolvimento de aplicacao p televisão
+- desenvolvimento de aplicacao p/ tv
+- desenvolvimento de aplicacao p/ televisao
+- desenvolvimento de aplicacao p/ televisão
+- desenvolvimento de aplicacões p tv
+- desenvolvimento de aplicacões p televisao
+- desenvolvimento de aplicacões p televisão
+- desenvolvimento de aplicacões p/ tv
+- desenvolvimento de aplicacões p/ televisao
+- desenvolvimento de aplicacões p/ televisão
+- desenvolvimento de aplicacoes p tv
+- desenvolvimento de aplicacoes p televisao
+- desenvolvimento de aplicacoes p televisão
+- desenvolvimento de aplicacoes p/ tv
+- desenvolvimento de aplicacoes p/ televisao
+- desenvolvimento de aplicacoes p/ televisão
+- desenvolvimento de aplicaçoes p tv
+- desenvolvimento de aplicaçoes p televisao
+- desenvolvimento de aplicaçoes p televisão
+- desenvolvimento de aplicaçoes p/ tv
+- desenvolvimento de aplicaçoes p/ televisao
+- desenvolvimento de aplicaçoes p/ televisão
+
+- desenvolv de app p tv
+- desenvolv de app p televisao
+- desenvolv de app p televisão
+- desenvolv de app p/ tv
+- desenvolv de app p/ televisao
+- desenvolv de app p/ televisão
+- desenvolv de aplicação p tv
+- desenvolv de aplicação p televisao
+- desenvolv de aplicação p televisão
+- desenvolv de aplicação p/ tv
+- desenvolv de aplicação p/ televisao
+- desenvolv de aplicação p/ televisão
+- desenvolv de aplicações p tv
+- desenvolv de aplicações p televisao
+- desenvolv de aplicações p televisão
+- desenvolv de aplicações p/ tv
+- desenvolv de aplicações p/ televisao
+- desenvolv de aplicações p/ televisão
+- desenvolv de aplicaçao p tv
+- desenvolv de aplicaçao p televisao
+- desenvolv de aplicaçao p televisão
+- desenvolv de aplicaçao p/ tv
+- desenvolv de aplicaçao p/ televisao
+- desenvolv de aplicaçao p/ televisão
+- desenvolv de aplicacão p tv
+- desenvolv de aplicacão p televisao
+- desenvolv de aplicacão p televisão
+- desenvolv de aplicacão p/ tv
+- desenvolv de aplicacão p/ televisao
+- desenvolv de aplicacão p/ televisão
+- desenvolv de aplicacao p tv
+- desenvolv de aplicacao p televisao
+- desenvolv de aplicacao p televisão
+- desenvolv de aplicacao p/ tv
+- desenvolv de aplicacao p/ televisao
+- desenvolv de aplicacao p/ televisão
+- desenvolv de aplicacões p tv
+- desenvolv de aplicacões p televisao
+- desenvolv de aplicacões p televisão
+- desenvolv de aplicacões p/ tv
+- desenvolv de aplicacões p/ televisao
+- desenvolv de aplicacões p/ televisão
+- desenvolv de aplicacoes p tv
+- desenvolv de aplicacoes p televisao
+- desenvolv de aplicacoes p televisão
+- desenvolv de aplicacoes p/ tv
+- desenvolv de aplicacoes p/ televisao
+- desenvolv de aplicacoes p/ televisão
+- desenvolv de aplicaçoes p tv
+- desenvolv de aplicaçoes p televisao
+- desenvolv de aplicaçoes p televisão
+- desenvolv de aplicaçoes p/ tv
+- desenvolv de aplicaçoes p/ televisao
+- desenvolv de aplicaçoes p/ televisão
+
+## synonym:Internet do Futuro
+- if
+- idf
+- internet do futuro
+- net do futuro
+- future internet
+
+## synonym:Projeto de Sistemas Embarcados
+- se
+- pse
+- pdse
+- projeto de sistemas
+- projeto de sistema
+- projeto de embarcados
+- projeto de sistemas embarcados
+- projeto de sistema embarcados
+- proj de sistemas
+- proj de embarcados
+- proj de sistemas embarcados
+- sistema embarcados
+- sistemas embarcados
+
+## synonym:Projeto e Implementação de Sistemas Distribuídos
+- pisd
+- projeto de sistemas distribuidos
+- projeto de sistemas distribuídos
+- projeto sistemas distribuidos
+- projeto sistemas distribuídos
+- implementação sistemas distribuidos
+- implementação sistemas distribuídos
+- implementaçao sistemas distribuidos
+- implementaçao sistemas distribuídos
+- implementacão sistemas distribuidos
+- implementacão sistemas distribuídos
+- implementacao sistemas distribuidos
+- implementacao sistemas distribuídos
+- implementação de sistemas distribuidos
+- implementação de sistemas distribuídos
+- implementaçao de sistemas distribuidos
+- implementaçao de sistemas distribuídos
+- implementacão de sistemas distribuidos
+- implementacão de sistemas distribuídos
+- implementacao de sistemas distribuidos
+- implementacao de sistemas distribuídos
+- projeto e implementação de sistemas distribuidos
+- projeto e implementação de sistemas distribuídos
+- projeto e implementacao de sistemas distribuidos
+- projeto e implementacao de sistemas distribuídos
+- projeto e implementacão de sistemas distribuidos
+- projeto e implementacão de sistemas distribuídos
+- projeto e implementaçao de sistemas distribuidos
+- projeto e implementaçao de sistemas distribuídos
+
+## synonym:Redes de Computadores SEM FIO
+- rcsf
+- rsf
+- redes sem fio
+- redes wifi
+- wifi
+- redes wireless
+- redes de computador sem fio
+- redes de computadores sem fio
+- redes de computador sem fios
+- redes de computadores sem fios
+- redes de pc sem fios
+- redes de pcs sem fios
+- rede sem fio
+- rede wifi
+- rede wireless
+- rede de computador sem fio
+- rede de computadores sem fio
+- rede de computador sem fios
+- rede de computadores sem fios
+- rede de pc sem fios
+- rede de pcs sem fios
+
+## synonym:Robótica Educacional 1
+- re1
+- r1
+- ri
+- robotica
+- robótica
+- robotica i
+- robótica i
+- robotica 1
+- robótica 1
+- robotica educacional
+- robótica educacional
+- robotica educacional 1
+- robótica educacional 1
+- robotica educacional i
+- robótica educacional i
+
+## synonym:Sistemas de Tempo REAL
+- str
+- sdtr
+- sistemas em tempo real
+- tempo real
+- sistemas de tempo real
+- sistema de tempo real
+- sistema em tempo real
+
+## synonym:Análise e Projeto de Sistemas Orientados a Objeto
+- apsoo
+- soo
+- sistemas orientados a objeto
+- sistema orientados a objeto
+- sistema orientado a objeto
+- sistemas orientado a objeto
+- sistemas orientados a obj
+- sistema orientados a obj
+- sistema orientado a obj
+- sistemas orientado a obj
+- projeto de sistemas orientados a objeto
+- projeto de sistema orientados a objeto
+- projeto de sistema orientado a objeto
+- projeto de sistemas orientado a objeto
+- projeto de sistemas orientados a obj
+- projeto de sistema orientados a obj
+- projeto de sistema orientado a obj
+- projeto de sistemas orientado a obj
+- analise e projeto de sistemas orientados a objeto
+- analise e projeto de sistema orientados a objeto
+- analise e projeto de sistema orientado a objeto
+- analise e projeto de sistemas orientado a objeto
+- analise e projeto de sistemas orientados a obj
+- analise e projeto de sistema orientados a obj
+- analise e projeto de sistema orientado a obj
+- analise e projeto de sistemas orientado a obj
+- análise e projeto de sistemas orientados a objeto
+- análise e projeto de sistema orientados a objeto
+- análise e projeto de sistema orientado a objeto
+- análise e projeto de sistemas orientado a objeto
+- análise e projeto de sistemas orientados a obj
+- análise e projeto de sistema orientados a obj
+- análise e projeto de sistema orientado a obj
+- análise e projeto de sistemas orientado a obj
+- analises e projeto de sistemas orientados a objeto
+- analises e projeto de sistema orientados a objeto
+- analises e projeto de sistema orientado a objeto
+- analises e projeto de sistemas orientado a objeto
+- analises e projeto de sistemas orientados a obj
+- analises e projeto de sistema orientados a obj
+- analises e projeto de sistema orientado a obj
+- analises e projeto de sistemas orientado a obj
+- análises e projeto de sistemas orientados a objeto
+- análises e projeto de sistema orientados a objeto
+- análises e projeto de sistema orientado a objeto
+- análises e projeto de sistemas orientado a objeto
+- análises e projeto de sistemas orientados a obj
+- análises e projeto de sistema orientados a obj
+- análises e projeto de sistema orientado a obj
+- análises e projeto de sistemas orientado a obj
+
+## synonym:Bancos de Dados Não-convencionais
+- bdnc
+- bdn
+- bdn-c
+- banco de dados n convencionais
+- banco de dados ñ convencionais
+- banco de dados nao convencionais
+- banco de dados não convencionais
+- banco de dados convencionais
+
+## synonym:Computação e Empreendedorismo
+- ce
+- cee
+- empreededorismo
+- computacao e empreededorismo
+- computacão e empreededorismo
+- computaçao e empreededorismo
+- computação e empreededorismo
+- empreend
+
+## synonym:Desenvolvimento de Aplicações Móveis
+- dam
+- ddam
+- mobile app
+- mobile apps
+- apps mobile
+- app mobile
+- app para celular
+- apps para celular
+- aplicativos para mobile
+- desenvolvimento de aplicações móveis
+- desenvolvimento de aplicaçoes móveis
+- desenvolvimento de aplicacões móveis
+- desenvolvimento de aplicacoes móveis
+- desenvolvimento de aplicação móveis
+- desenvolvimento de aplicaçao móveis
+- desenvolvimento de aplicacão móveis
+- desenvolvimento de aplicacao móveis
+- desenvolvimento de aplicação móvel
+- desenvolvimento de aplicaçao móvel
+- desenvolvimento de aplicacão móvel
+- desenvolvimento de aplicacao móvel
+- desenvolvimento de aplicações moveis
+- desenvolvimento de aplicaçoes moveis
+- desenvolvimento de aplicacões moveis
+- desenvolvimento de aplicacoes moveis
+- desenvolvimento de aplicação moveis
+- desenvolvimento de aplicaçao moveis
+- desenvolvimento de aplicacão moveis
+- desenvolvimento de aplicacao moveis
+- desenvolvimento de aplicação movel
+- desenvolvimento de aplicaçao movel
+- desenvolvimento de aplicacão movel
+- desenvolvimento de aplicacao movel
+
+## synonym:Desenvolvimento de Aplicações para WEB
+- daw
+- ddapw
+- dapw
+- web
+- app web
+- desenvolvimento web
+- desenvolvimento de aplicações para web
+- desenvolvimento de aplicaçoes para web
+- desenvolvimento de aplicacões para web
+- desenvolvimento de aplicacoes para web
+- desenvolvimento de aplicações p web
+- desenvolvimento de aplicaçoes p web
+- desenvolvimento de aplicacões p web
+- desenvolvimento de aplicacoes p web
+- desenvolvimento de aplicações web
+- desenvolvimento de aplicaçoes web
+- desenvolvimento de aplicacões web
+- desenvolvimento de aplicacoes web
+- desenvolvimento de aplicação para web
+- desenvolvimento de aplicaçao para web
+- desenvolvimento de aplicacao para web
+- desenvolvimento de aplicacão para web
+- desenvolvimento de aplicação p web
+- desenvolvimento de aplicaçao p web
+- desenvolvimento de aplicacao p web
+- desenvolvimento de aplicacão p web
+- desenvolvimento de aplicação web
+- desenvolvimento de aplicaçao web
+- desenvolvimento de aplicacao web
+- desenvolvimento de aplicacão web
+
+## synonym:Engenharia de Requisitos
+- er
+- edr
+- engenharia de requisitos
+- eng de requisitos
+- eng requisitos
+- engenharia de requesitos
+- eng de requesitos
+- eng requesitos
+
+## synonym:Engenharia de Software  Experimental
+## synonym:Gerência de Projetos
+## synonym:Gestão da Informação e do Conhecimento
+## synonym:Gestão de Processos de Negócio
+## synonym:Governança de TI
+## synonym:Informática na Educação
+## synonym:Inovação em Projetos de Software
+## synonym:Interação Homem-máquina
+## synonym:Jogos Digitais
+## synonym:Metodologias Ágeis de Desenvolvimento de Software
+## synonym:Métodos Formais
+## synonym:Projetos de Sistemas Educacionais
+## synonym:Qualidade de Software
+## synonym:Teste de Software
+## synonym:Algoritmos em Grafos
+## synonym:Aprendizagem de Máquina
+## synonym:Biologia Computacional
+## synonym:Computação Gráfica Básica
+## synonym:Estruturas Algébricas para Computação
+## synonym:: Introdução à Computação Evolutiva
+- ice
+- iace
+- introdução à computação evolutiva
+- introdução à computacão evolutiva
+- introdução à computaçao evolutiva
+- introdução à computacao evolutiva
+- introdução a computação evolutiva
+- introdução a computacão evolutiva
+- introdução a computaçao evolutiva
+- introdução a computacao evolutiva
+- introduçao à computação evolutiva
+- introduçao à computacão evolutiva
+- introduçao à computaçao evolutiva
+- introduçao à computacao evolutiva
+- introduçao a computação evolutiva
+- introduçao a computacão evolutiva
+- introduçao a computaçao evolutiva
+- introduçao a computacao evolutiva
+- introducao à computação evolutiva
+- introducao à computacão evolutiva
+- introducao à computaçao evolutiva
+- introducao à computacao evolutiva
+- introducao a computação evolutiva
+- introducao a computacão evolutiva
+- introducao a computaçao evolutiva
+- introducao a computacao evolutiva
+- introducão à computação evolutiva
+- introducão à computacão evolutiva
+- introducão à computaçao evolutiva
+- introducão à computacao evolutiva
+- introducão a computação evolutiva
+- introducão a computacão evolutiva
+- introducão a computaçao evolutiva
+- introducão a computacao evolutiva
+- computação evolutiva
+- computacão evolutiva
+- computacao evolutiva
+- computacão evolutiva
+
+## synonym:Introdução à Computação Quântica
+## synonym:Lógica para Computação
+## synonym:Mineração de Texto
+## synonym:Motores Gráficos
+## synonym:Processamento de Imagens
+## synonym:Projeto e Análise de Algoritmos
+## synonym:Projetos em Compiladores
+## synonym:Realidade Virtual e Mista
+## synonym:Redes Neurais
+## synonym:Sistemas Multiagentes
+## synonym:Visão Computacional
+
+

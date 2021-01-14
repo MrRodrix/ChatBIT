@@ -29,24 +29,23 @@ class Prereq(Action):
             else:
                 #TODO: colocar ementas optativas
                 #carrega csv com ementas
-                disciplinas = pd.read_csv("files/ementas.csv")
+                disciplinas = pd.read_csv("files/ementas_obrigatorias.csv")
+                disciplinas = disciplinas.append(pd.read_csv("files/ementas_optativas.csv"), ignore_index = True) 
+                disciplinas_nomes = [x.lower() for x in disciplinas['DISCIPLINA'].to_list()]
                 #pesquisa os prereq pra aquela disciplina
-                requisitos=0.0
-                try:
-                    requisitos=disciplinas[disciplinas['DISCIPLINA']==cadeira]['PRÉ-REQUISITOS'].values[0]
-                    pass
-                except:
+                requisitos = ''
+                if cadeira.lower() in disciplinas_nomes:
+                    requisitos=disciplinas.loc[[disciplinas_nomes.index(cadeira.lower())]]['PRÉ-REQUISITOS'].values[0]
+                else:
                     dispatcher.utter_message(text="Não encontrei a disciplina \""+cadeira+"\" no meu banco de dados")
                     return [SlotSet("facilitytype", "")]
-                #se nao for float (padrão para 'não existe pre req')
-                if type(requisitos)!=float:
+
+                if requisitos!='' and requisitos!=0 and requisitos!='0' and requisitos!='Nenhum':
                     #splito a string de prereqs
                     #é splitado por ","
-                    vec=requisitos.split(",")
                     #prepara o output para a cadeira e os requisitos
                     output = "Os pré requisitos para " + str(cadeira) + " são:\n"
-                    for i in range(0, len(vec)):
-                        output+=str(i+1)+". "+vec[i]+"\n"
+                    output+=requisitos+"\n"
                 #caso contrario n tem prereq
                 else:
                     output= "A disciplina " + str(cadeira) + " não possui pré requisitos"

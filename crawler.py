@@ -6,7 +6,7 @@ import io
 import requests
 import pdfplumber
 
-discipline_pdf = 'optativas' # optativas // obrigatorias
+discipline_pdf = 'obrigatorias' # optativas // obrigatorias
 
 def clear_string(string):
     string = string.replace('\n', '')
@@ -21,7 +21,7 @@ def clear_string(string):
     for i in range(len(string)):
         if (len(str(string[i]))>4):
             string[i] = str(string[i]).capitalize() 
-        elif (string[i].lower() == 'de' or string[i].lower() == 'do' or string[i].lower() == 'da' or string[i].lower() == 'dos' or string[i].lower() == 'das' or string[i].lower() == 'e' or string[i].lower() == 'para' or string[i].lower() == 'à' or string[i].lower() == 'a' or string[i].lower() == 'o'):
+        elif (string[i].lower() == 'de' or string[i].lower() == 'do' or string[i].lower() == 'da' or string[i].lower() == 'dos' or string[i].lower() == 'das' or string[i].lower() == 'e' or string[i].lower() == 'para' or string[i].lower() == 'à' or string[i].lower() == 'a' or string[i].lower() == 'o' or string[i].lower() == 'em' or string[i].lower() == 'no' or string[i].lower() == 'nos' or string[i].lower() == 'na' or string[i].lower() == 'nas'):
             string[i] = str(string[i]).lower()
         else:
             string[i] = str(string[i]).upper()
@@ -67,8 +67,7 @@ for page in pdf.pages:
     print('Loading page: ' + str(pdf.pages.index(page)) + '/' + str(len(pdf.pages)))
     content += '\n'+page.extract_text()
 
-course_info_list = [['DISCIPLINA', 'CÓDIGO', 'DEPARTAMENTO', 'ÁREA', 'CARGA HORÁRIA TOTAL', 'NÚMERO DE CRÉDITOS', 
-                    'CARGA HORÁRIA SEMANAL', 'TEÓRICAS', 'PRÁTICAS', 'PRÉ-REQUISITOS', 'EMENTA']]
+course_info_list = []
 existe_disciplina = True
 i=0
 while existe_disciplina:
@@ -104,7 +103,8 @@ while existe_disciplina:
 
 import pandas as pd
 my_df = pd.DataFrame(course_info_list)
-print(my_df.head())
-my_df.to_csv('files/ementas_'+discipline_pdf+'.csv', index=False, header=False)
+print(my_df)
+my_df.to_csv('files/ementas_'+discipline_pdf+'.csv', index=True, header=['DISCIPLINA', 'CÓDIGO', 'DEPARTAMENTO', 'ÁREA', 'CARGA HORÁRIA TOTAL', 'NÚMERO DE CRÉDITOS', 
+                    'CARGA HORÁRIA SEMANAL', 'TEÓRICAS', 'PRÁTICAS', 'PRÉ-REQUISITOS', 'EMENTA'])
 
 
