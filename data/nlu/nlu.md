@@ -656,6 +656,7 @@
 
 ## synonym:Introdução à Ciência da Computação
 - icc
+- cc
 - intodução a ciência da computação
 - introducao à ciencia da computaçao
 - introducão à ciencia da computaçao
@@ -670,6 +671,7 @@
 - introducao a cc
 - introducao à cc
 - ciencia da computação
+- ciência da computação
 - ciencia da comp
 - introducao à ciencia da comp
 - introducão à ciencia da comp
@@ -1811,24 +1813,332 @@
 - eng requesitos
 
 ## synonym:Engenharia de Software  Experimental
+- ese
+- edse
+- engenharia experimental
+- eng experimental
+- engenharia de software experimental
+- eng de software experimental
+
 ## synonym:Gerência de Projetos
+- gp
+- gdp
+- gerencia
+- gerência
+- gerencia de projetos
+- gerência de projetos
+- gerencia de projeto
+- gerência de projeto
+- gerencia projetos
+- gerência projetos
+
 ## synonym:Gestão da Informação e do Conhecimento
+- gic
+- gestão da informação
+- gestão de conhecimento
+- gestão da informação e conhecimento
+- gestão de conhecimento e informação
+- gestão da informação e do conhecimento
+- gestão de conhecimento e da informação
+- gestão da informação e de conhecimento
+- gestão de conhecimento e de informação
+- gestão de informação e de conhecimento
+- gestão de conhecimento e de informação
+- gestão de conhecimento
+- gestão da informaçao
+- gestão de conhecimento e informaçao
+- gestão de conhecimento e da informaçao
+- gestão de conhecimento e de informaçao
+- gestão de conhecimento e de informaçao
+- gestão da informacao
+- gestão de conhecimento e informacao
+- gestão de conhecimento e da informacao
+- gestão de conhecimento e de informacao
+- gestão de conhecimento e de informacao
+- gestão da informacão
+- gestão de conhecimento e informacão
+- gestão de conhecimento e da informacão
+- gestão de conhecimento e de informacão
+- gestão de conhecimento e de informacão
+- gestão da informacao
+- gestão de conhecimento e informacao
+- gestão de conhecimento e da informacao
+- gestão de conhecimento e de informacao
+- gestão de conhecimento e de informacao
+- gestão da informação e conhecimento
+- gestão da informação e do conhecimento
+- gestão da informação e de conhecimento
+- gestão de informação e de conhecimento
+- gestão da informaçao e conhecimento
+- gestão da informaçao e do conhecimento
+- gestão da informaçao e de conhecimento
+- gestão de informaçao e de conhecimento
+- gestão da informacão e conhecimento
+- gestão da informacão e do conhecimento
+- gestão da informacão e de conhecimento
+- gestão de informacão e de conhecimento
+- gestão da informacao e conhecimento
+- gestão da informacao e do conhecimento
+- gestão da informacao e de conhecimento
+- gestão de informacao e de conhecimento
+- gestao da informação
+- gestao de conhecimento
+- gestao da informação e conhecimento
+- gestao de conhecimento e informação
+- gestao da informação e do conhecimento
+- gestao de conhecimento e da informação
+- gestao da informação e de conhecimento
+- gestao de conhecimento e de informação
+- gestao de informação e de conhecimento
+- gestao de conhecimento e de informação
+- gestao de conhecimento
+- gestao da informaçao
+- gestao de conhecimento e informaçao
+- gestao de conhecimento e da informaçao
+- gestao de conhecimento e de informaçao
+- gestao de conhecimento e de informaçao
+- gestao da informacao
+- gestao de conhecimento e informacao
+- gestao de conhecimento e da informacao
+- gestao de conhecimento e de informacao
+- gestao de conhecimento e de informacao
+- gestao da informacão
+- gestao de conhecimento e informacão
+- gestao de conhecimento e da informacão
+- gestao de conhecimento e de informacão
+- gestao de conhecimento e de informacão
+- gestao da informacao
+- gestao de conhecimento e informacao
+- gestao de conhecimento e da informacao
+- gestao de conhecimento e de informacao
+- gestao de conhecimento e de informacao
+- gestao da informação e conhecimento
+- gestao da informação e do conhecimento
+- gestao da informação e de conhecimento
+- gestao de informação e de conhecimento
+- gestao da informaçao e conhecimento
+- gestao da informaçao e do conhecimento
+- gestao da informaçao e de conhecimento
+- gestao de informaçao e de conhecimento
+- gestao da informacão e conhecimento
+- gestao da informacão e do conhecimento
+- gestao da informacão e de conhecimento
+- gestao de informacão e de conhecimento
+- gestao da informacao e conhecimento
+- gestao da informacao e do conhecimento
+- gestao da informacao e de conhecimento
+- gestao de informacao e de conhecimento
+
 ## synonym:Gestão de Processos de Negócio
+- gpn
+- gdpdn
+- gestão de processos
+- gestao de processos
+- gestão de processos de negócio
+- gestão de processos de negocio
+- gestao de processos de negócio
+- gestao de processos de negocio
+
 ## synonym:Governança de TI
+- gti
+- gt
+- governança
+- governanca
+- governança de TI
+- governanca TI
+- governanca de TI
+- governança TI
+
 ## synonym:Informática na Educação
+- ie
+- informatica na educação
+- informática na educação
+- informatica na educacao
+- informática na educacao
+- informatica na educacão
+- informática na educacão
+- informatica na educaçao
+- informática na educaçao
+- info na edu
+- informatica na edu
+- informática na edu
+
 ## synonym:Inovação em Projetos de Software
+- ips
+- iepds
+- inovacao
+- inovaçao
+- inovação
+- inovacão
+- inovacao em projetos
+- inovaçao em projetos
+- inovação em projetos
+- inovacão em projetos
+- inovacao em proj
+- inovaçao em proj
+- inovação em proj
+- inovacão em proj
+- inovacao em projetos de software
+- inovaçao em projetos de software
+- inovação em projetos de software
+- inovacão em projetos de software
+
 ## synonym:Interação Homem-máquina
+- ihm
+- ih-m
+- homem-máquina
+- homem-maquina
+- homem máquina
+- homem maquina
+- interação homem-máquina
+- interação homem-maquina
+- interação homem máquina
+- interação homem maquina
+- interaçao homem-máquina
+- interaçao homem-maquina
+- interaçao homem máquina
+- interaçao homem maquina
+- interacão homem-máquina
+- interacão homem-maquina
+- interacão homem máquina
+- interacão homem maquina
+- interacao homem-máquina
+- interacao homem-maquina
+- interacao homem máquina
+- interacao homem maquina
+- interação
+- interacao
+- interaçao
+- interacão
+
 ## synonym:Jogos Digitais
+- jd
+- jogos
+- jogos digitais
+
 ## synonym:Metodologias Ágeis de Desenvolvimento de Software
+- mads
+- maddds
+- metodologia ágil
+- metodologia ágeis
+- metodologias ágil
+- metodologias ágeis
+- metodologia ágil de desenvolvimento
+- metodologia ágeis de desenvolvimento
+- metodologias ágil de desenvolvimento
+- metodologias ágeis de desenvolvimento
+- metodologia ágil de desenvolvimento de software
+- metodologia ágeis de desenvolvimento de software
+- metodologias ágil de desenvolvimento de software
+- metodologias ágeis de desenvolvimento de software
+
 ## synonym:Métodos Formais
+- mf
+- métodos
+- método formal
+- feio e forte
+- metodos formais
+- metodos formal
+- metodo formais
+- metodo formal
+- métodos formais
+- métodos formal
+- método formais
+
+
 ## synonym:Projetos de Sistemas Educacionais
+- psedu
+- ps edu
+- psed
+- sistemas educacionais
+- sistema educacional
+- projeto de sistemas educacionais
+- projeto de sistema educacionais
+- projeto de sistema educacional
+
 ## synonym:Qualidade de Software
+- qs
+- qualidade
+- qualidade de software
+- qualidade software
+
 ## synonym:Teste de Software
+- ts
+- teste
+- teste de software
+- testes de software
+
 ## synonym:Algoritmos em Grafos
+- algoritmos em grafos
+- grafos
+- algorit em grafos
+- ag
+
 ## synonym:Aprendizagem de Máquina
+- aprendizagem de maquina
+- aprendizagem de máquina
+- am
+- ml
+- machine learning
+
 ## synonym:Biologia Computacional
+- bc
+- biologia
+- biologia na computação
+- biologia na computaçao
+- biologia na computacão
+- biologia na computacao
+- biologia computacional
+
 ## synonym:Computação Gráfica Básica
+- cgb
+- cg
+- computação gráfica
+- computação grafica
+- computacao gráfica
+- computacao grafica
+- computacão gráfica
+- computacão grafica
+- computaçao gráfica
+- computaçao grafica
+- computação gráfica basica
+- computação grafica basica
+- computacao gráfica basica
+- computacao grafica basica
+- computacão gráfica basica
+- computacão grafica basica
+- computaçao gráfica basica
+- computaçao grafica basica
+- computação gráfica básica
+- computação grafica básica
+- computacao gráfica básica
+- computacao grafica básica
+- computacão gráfica básica
+- computacão grafica básica
+- computaçao gráfica básica
+- computaçao grafica básica
+
 ## synonym:Estruturas Algébricas para Computação
+- eac
+- estruturas algebricas
+- estruturas algébricas
+- estruturas algebricas p computacao
+- estruturas algébricas p computacao
+- estruturas algebricas p computacão
+- estruturas algébricas p computacão
+- estruturas algebricas p computaçao
+- estruturas algébricas p computaçao
+- estruturas algebricas p computacao
+- estruturas algébricas p computacao
+- estruturas algebricas para computacao
+- estruturas algébricas para computacao
+- estruturas algebricas para computacão
+- estruturas algébricas para computacão
+- estruturas algebricas para computaçao
+- estruturas algébricas para computaçao
+- estruturas algebricas para computacao
+- estruturas algébricas para computacao
+
 ## synonym:: Introdução à Computação Evolutiva
 - ice
 - iace
@@ -1870,15 +2180,203 @@
 - computacão evolutiva
 
 ## synonym:Introdução à Computação Quântica
+- icq
+- cq
+- computação quântica
+- computação quantica
+- computaçao quântica
+- computaçao quantica
+- computacao quântica
+- computacao quantica
+- computacão quântica
+- computacão quantica
+- introducao computação quântica
+- introducao computação quantica
+- introducao computaçao quântica
+- introducao computaçao quantica
+- introducao computacao quântica
+- introducao computacao quantica
+- introducao computacão quântica
+- introducao computacão quantica
+- introducão computação quântica
+- introducão computação quantica
+- introducão computaçao quântica
+- introducão computaçao quantica
+- introducão computacao quântica
+- introducão computacao quantica
+- introducão computacão quântica
+- introducão computacão quantica
+- introdução computação quântica
+- introdução computação quantica
+- introdução computaçao quântica
+- introdução computaçao quantica
+- introdução computacao quântica
+- introdução computacao quantica
+- introdução computacão quântica
+- introdução computacão quantica
+- introduçao computação quântica
+- introduçao computação quantica
+- introduçao computaçao quântica
+- introduçao computaçao quantica
+- introduçao computacao quântica
+- introduçao computacao quantica
+- introduçao computacão quântica
+- introduçao computacão quantica
+- introducao a computação quântica
+- introducao à computação quântica
+- introducao a computação quantica
+- introducao à computação quantica
+- introducao a computaçao quântica
+- introducao à computaçao quântica
+- introducao a computaçao quantica
+- introducao à computaçao quantica
+- introducao a computacao quântica
+- introducao à computacao quântica
+- introducao a computacao quantica
+- introducao à computacao quantica
+- introducao a computacão quântica
+- introducao à computacão quântica
+- introducao a computacão quantica
+- introducao à computacão quantica
+- introducão a computação quântica
+- introducão à computação quântica
+- introducão a computação quantica
+- introducão à computação quantica
+- introducão a computaçao quântica
+- introducão à computaçao quântica
+- introducão a computaçao quantica
+- introducão à computaçao quantica
+- introducão a computacao quântica
+- introducão à computacao quântica
+- introducão a computacao quantica
+- introducão à computacao quantica
+- introducão a computacão quântica
+- introducão à computacão quântica
+- introducão a computacão quantica
+- introducão à computacão quantica
+- introdução a computação quântica
+- introdução à computação quântica
+- introdução a computação quantica
+- introdução à computação quantica
+- introdução a computaçao quântica
+- introdução à computaçao quântica
+- introdução a computaçao quantica
+- introdução à computaçao quantica
+- introdução a computacao quântica
+- introdução à computacao quântica
+- introdução a computacao quantica
+- introdução à computacao quantica
+- introdução a computacão quântica
+- introdução à computacão quântica
+- introdução a computacão quantica
+- introdução à computacão quantica
+- introduçao a computação quântica
+- introduçao à computação quântica
+- introduçao a computação quantica
+- introduçao à computação quantica
+- introduçao a computaçao quântica
+- introduçao à computaçao quântica
+- introduçao a computaçao quantica
+- introduçao à computaçao quantica
+- introduçao a computacao quântica
+- introduçao à computacao quântica
+- introduçao a computacao quantica
+- introduçao à computacao quantica
+- introduçao a computacão quântica
+- introduçao à computacão quântica
+- introduçao a computacão quantica
+- introduçao à computacão quantica
+
 ## synonym:Lógica para Computação
+- lpc
+- lc
+- lógica
+- logica
+- lógica p computacao
+- logica p computacao
+- lógica p computacão
+- logica p computacão
+- lógica p computação
+- logica p computação
+- lógica p computaçao
+- logica p computaçao
+- lógica para computacao
+- logica para computacao
+- lógica para computacão
+- logica para computacão
+- lógica para computação
+- logica para computação
+- lógica para computaçao
+- logica para computaçao
+
 ## synonym:Mineração de Texto
+- mineração
+- mineraçao
+- mineracão
+- mineracao
+- mt
+- mdt
+- mineração de texto
+- mineraçao de texto
+- mineracão de texto
+- mineracao de texto
+
 ## synonym:Motores Gráficos
+- mg
+- motores
+- motores graficos
+- motores gráficos
+
 ## synonym:Processamento de Imagens
-## synonym:Projeto e Análise de Algoritmos
+- processamento de imagem
+- processamento de imagens
+- pi
+- pdi
+
 ## synonym:Projetos em Compiladores
+- projetos de compiladores
+- projeto de compiladores
+- projetos de compilador
+- projeto de compilador
+- projetos em compiladores
+- projeto em compiladores
+- projetos em compilador
+- projeto em compilador
+- pdc
+- pc
+- pec
+
 ## synonym:Realidade Virtual e Mista
+- rvm
+- realidade virtual
+- vr
+- mvr
+- vmr
+- realidade mista
+- realidade virtual e mista
+- virtual reality
+
 ## synonym:Redes Neurais
+- redes neurais
+- rede neural
+- redes neural
+- rede neurais
+- rn
+
 ## synonym:Sistemas Multiagentes
+- sm
+- sistemas multiagentes
+- multiagentes
+- sistemas multiagente
+- multiagente
+- sistema multiagente
+- sistemas multiagentes
+
 ## synonym:Visão Computacional
-
-
+- vc
+- visão
+- visão computacional
+- visao
+- visao computacional
+- computation vision
+- visual computation
