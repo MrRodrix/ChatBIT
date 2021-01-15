@@ -4,6 +4,13 @@ Um projeto de PIBITI (Programa Institucional de Bolsas de Iniciação em Desenvo
 ## Requisitos
 EM BREVE
 
+## Como usar
+- Executar,na pasta raiz do projeto, os comandos: 
+``` 
+rasa run actions 
+rasa shell
+```
+
 ## Biblioteca
 Foi utilizado o [RASA](https://github.com/RasaHQ) para o desenvolvimento desse chatbot
 
