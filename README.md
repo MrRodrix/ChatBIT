@@ -8,6 +8,8 @@ EM BREVE
 - Executar,na pasta raiz do projeto, os comandos: 
   ``` 
   rasa run actions 
+  ```
+  ```
   rasa shell
   ```
 
