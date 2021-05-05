@@ -17,7 +17,7 @@ class Prereq(Action):
         
         #pego a cadeira q o cara digitou
         cadeira = None
-        cadeira = tracker.get_slot("facilitytype")
+        cadeira = tracker.get_slot("disciplina")
 
         #vejo se é estagio, se for mando link do informativo geral
         if(cadeira == 'Estágio Supervisionado Obrigatório I' or cadeira == 'Estágio Supervisionado Obrigatório II'):
@@ -38,7 +38,7 @@ class Prereq(Action):
                     requisitos=disciplinas.loc[[disciplinas_nomes.index(cadeira.lower())]]['PRÉ-REQUISITOS'].values[0]
                 else:
                     dispatcher.utter_message(text="Não encontrei a disciplina \""+cadeira+"\" no meu banco de dados")
-                    return [SlotSet("facilitytype", "")]
+                    return [SlotSet("disciplina", "")]
 
                 if requisitos!='' and requisitos!=0 and requisitos!='0' and requisitos!='Nenhum':
                     #splito a string de prereqs
@@ -53,4 +53,4 @@ class Prereq(Action):
                 dispatcher.utter_message(text=output)
                 
             
-        return [SlotSet("facilitytype", "")]
+        return [SlotSet("disciplina", "")]

@@ -165,24 +165,7 @@
 * aceitar
   - utter_ok
 
+## Como estou?
 
-## New Story
-
-* saudar
-    - utter_saudar
-* help
-    - utter_help
-* empresa_ch_complementar{"trabalho":"trabalhei","empresa":"lugar","horas":"horas","ch_complementar":"atividade complementar"}
-    - utter_empresa_ch_complementar
-    - utter_ajudou
-* aceitar
-    - utter_ok
-
-## New Story
-
-* saudar
-    - utter_saudar
-* saber_criador
-    - utter_criador
-* agradecer
-    - utter_disponha
+* como_estou
+    - utter_como_estou

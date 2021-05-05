@@ -33,39 +33,9 @@ intents:
 - empresa_ch_complementar
 - segredo
 entities:
-- facilitytype
-- piada
-- calendario
-- ch_complementar
-- coordenacao
-- naosei
-- vale
-- categoria
-- contato
-- passado
-- add
-- comprovar
-- necessario
-- prereq
-- feito
-- professores
-- encontrar
-- trilhas
-- estagio
-- ic
-- dispensar
-- cursar
-- whatis
-- horas
-- entrada
-- momento
-- futuro
-- empresa
-- trabalho
-- estágio
-- optativa
+- disciplina
 slots:
-  facilitytype:
+  disciplina:
     type: text
 responses:
   utter_continuar:
@@ -84,9 +54,11 @@ responses:
   - text: "Olá! \n\nEu sou uma inteligência artificial e estou aqui para te ajudar\
       \ \nEstou aqui para tirar suas dúvidas, sinta-se a vontade. \n\nSe quiser saber\
       \ algumas perguntas que sei responder use o \"/help\""
-  - text: "Oi! Sou o IHAN (I Haven't A Name) \nEu sou uma inteligência artificial\
-      \ e estou aqui para te ajudar \n\nSe quiser saber algumas perguntas que sei\
-      \ responder use o \"/help\""
+  - text: Oi! Sou o P.E.R.I.C.L.E.S. Eu sou uma inteligência artificial e estou aqui para te
+      ajudar Se quiser saber algumas perguntas que sei responder use o "/help"
+  - text: "Saudações, humano.\n\n Estou aqui pra te ajudar, sou o P.E.R.I.C.L.E.S.\n\n Caso\
+      \ tenha alguma dúvida é só me perguntar, se quiser saber quais tipos de pergunta\
+      \ eu sei responder basta digitar '/help'"
   utter_criador:
   - text: Eu fui criado pelo Rodrigues, estudante de Ciência da Computação na UFRPE.
       Nasci de parto orientado a objeto, auxiliado pela biblioteca RASA.
@@ -99,7 +71,6 @@ responses:
       \ a próxima!\n"
   - text: "Tchau!\n\nQuando surgir alguma dúvida, volte aqui!\n"
   utter_piada:
-  - text: "Conheço uma piada\n\nA do CPU que apitou e explodiu\n\n01100110010101010101000000111101001001001110100101\n"
   - text: "É pra já!!!\n\nTenho uma enxada, uma pá e uma foice.\n  \nQuantas ferramentas\
       \ eu tenho?\n\n...\n\nDuas, porque uma foi-se =)\n"
   - text: "Por que o Batman colocou o batmóvel no seguro???\n\nPorque ele tem medo\
@@ -118,9 +89,13 @@ responses:
   - text: "Por que o Linux usa o pinguim como mascote?\n\nPorque não congela."
   - text: "Qual a diferença entre hardware e software?\n\nO software você xinga, e\
       \ o hardware você chuta."
-  - text: "Um programador foi ao açougue e pediu um kilo de carne.\n\nChegando em\
-      \ casa, ficou indignado: “Estão faltando 24gramas!”"
+  - text: 'Um programador foi ao açougue e pediu um kilo de carne.Chegando em casa,
+      ficou indignado: “Estão faltando 24 gramas!”'
   - text: "O que é um terapeuta?\n\n1.024 gigapeutas."
+  - text: "Qual é a principal diferença entre o Batman e o Bill Gates? \n\nÉ que o\
+      \ Batman consegue derrotar o Pinguim."
+  - text: O que uma impressora falou para a outra? “Essa folha no chão é sua ou é
+      impressão minha?”
   utter_duvida_calendario:
   - text: "O calendário acadêmico está disponível no site institucional da UFRPE\n\
       \nVocê pode acessar pelo link: http://www.ufrpe.br/br/content/calend%C3%A1rio-acad%C3%AAmico"
@@ -250,20 +225,20 @@ responses:
       \ prática contabilizam 1080h pois cada disciplina corresponde a 60h) \n\tAtividades\
       \ complementares: 180h \n\tCarga horária total: 3210h"
   utter_oq_acontece_apos_entrada_ch_complementar:
-  - text: "1. O processo é encaminhado à coordenação, que vai preencher um formulário\
-      \ com as atividades apresentadas pelo aluno em ensino, pesquisa e extensão,\
-      \ e atribuir a carga horária equivalente. \n2. O colegiado do curso homologa\
-      \ as atividades. \n3. A coordenação encaminha o processo ao DRCA. \n4. O DRCA\
-      \ faz uma conferência e lança as atividades no SIGA. \n\nSe for identificada\
-      \ alguma irregularidade, você será contatado pela coordenação ao longo deste\
-      \ processo."
+  - text: "Após a entrada no processo ocorre o seguinte:\n\t1. O processo é encaminhado\
+      \ à\ncoordenação, que vai preencher um formulário com as atividades apresentadas\
+      \ pelo aluno em ensino, pesquisa e extensão, e atribuir a carga horária equivalente.\
+      \ \n\t2. O colegiado do curso homologa as atividades. \n  3. A coordenação\n\
+      encaminha o processo ao DRCA. \n\t4. O DRCA faz uma conferência e lança as\n\
+      atividades no SIGA. Se for identificada alguma irregularidade, você será contatado\
+      \ pela coordenação ao longo deste processo."
   utter_qlqr_momento_complementar:
-  - text: "Você pode dar entrada a qualquer momento da sua graduação, mas é aconselhável\
-      \ só fazer isso no seu último semestre, de preferência com uma boa antecedência\
-      \ em relação à data-limite do calendário acadêmico. \nO motivo para só abrir\
-      \ o processo no seu último semestre é que o órgão responsável por lançar as\
-      \ atividades no SIGA (o DRCA), fica sobrecarregado e dá prioridade às atividades\
-      \ dos concluintes."
+  - text: Você pode dar entrada no processo de atividades complementares a qualquer
+      momento da sua graduação, mas é aconselhável só fazer isso no seu último semestre,
+      de preferência com uma boa antecedência em relação à data-limite do calendário
+      acadêmico. O motivo para só abrir o processo no seu último semestre é que o
+      órgão responsável por lançar as atividades no SIGA (o DRCA), fica sobrecarregado
+      e dá prioridade às atividades dos concluintes.
   utter_empresa_ch_complementar:
   - text: "Uma declaração de vínculo empregatício não conta como atividade complementar.\
       \ \nMas, se você realizar ou ministrar cursos / treinamentos / desenvolvimento\
@@ -274,6 +249,13 @@ responses:
   - text: "Desculpe, não consegui entender, você pode escrever de uma forma diferente?\n\
       \nPode ser que eu ainda não saiba sobre isso, mas não se preocupe eu sempre\
       \ estou estudando muito pra te ajudar melhor"
+  utter_como_estou:
+  - text: Estou bem, qual sua dúvida?
+  - text: Estou bem. Deseja alguma informação?
+  - text: Estou pronto para responder perguntas! Qual sua dúvida?
+  - text: Estou energizado XD, louco para responder dúvidas, qual a sua dúvida?
+  - text: Estou muito bem. Qual dúvida trouxe alguma dúvida para mim?
+  - text: Estou ótimo. Tem alguma dúvida?
 actions:
 - utter_saudar
 - utter_criador

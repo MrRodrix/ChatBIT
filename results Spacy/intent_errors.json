@@ -1,0 +1,18 @@
+[
+  {
+    "text": "Sim, por favor",
+    "intent": "aceitar",
+    "intent_prediction": {
+      "name": "recusar",
+      "confidence": 0.5107375979423523
+    }
+  },
+  {
+    "text": "nop",
+    "intent": "recusar",
+    "intent_prediction": {
+      "name": "saudar",
+      "confidence": 0.4545420706272125
+    }
+  }
+]

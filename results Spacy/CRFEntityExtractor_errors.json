@@ -1,0 +1,524 @@
+[
+  {
+    "text": "estátistica explorátoria tem algum requisito?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 24,
+        "value": "estátistica explorátoria",
+        "entity": "disciplina"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "pre-reqs péricles",
+    "entities": [
+      {
+        "start": 9,
+        "end": 17,
+        "value": "péricles",
+        "entity": "disciplina"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "pre requisitos redes neurais",
+    "entities": [
+      {
+        "start": 15,
+        "end": 28,
+        "value": "redes neurais",
+        "entity": "disciplina"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "ip i tem algum requisito?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "value": "ip i",
+        "entity": "disciplina"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "pre-reqs discreta2",
+    "entities": [
+      {
+        "start": 9,
+        "end": 18,
+        "value": "discreta2",
+        "entity": "disciplina"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "pre-reqs teoria",
+    "entities": [
+      {
+        "start": 9,
+        "end": 15,
+        "value": "teoria",
+        "entity": "disciplina"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "onde eu posso saber sobre os pre requisitos de pds",
+    "entities": [
+      {
+        "start": 47,
+        "end": 50,
+        "value": "pds",
+        "entity": "disciplina"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "pre-req algebra vetorial e linear para computação",
+    "entities": [
+      {
+        "start": 8,
+        "end": 49,
+        "value": "algebra vetorial e linear para computação",
+        "entity": "disciplina"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "disciplina",
+        "start": 39,
+        "end": 49,
+        "confidence_entity": 0.8576184137726103,
+        "value": "computação",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "pre-reqs avlpc",
+    "entities": [
+      {
+        "start": 9,
+        "end": 14,
+        "value": "avlpc",
+        "entity": "disciplina"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "pre-req prog2",
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "value": "prog2",
+        "entity": "disciplina"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "pre requisitos álgebra linear",
+    "entities": [
+      {
+        "start": 15,
+        "end": 29,
+        "value": "álgebra linear",
+        "entity": "disciplina"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "para pagar a cadeira prog1 preciso ter pago quais cadeiras?",
+    "entities": [
+      {
+        "start": 21,
+        "end": 26,
+        "value": "prog1",
+        "entity": "disciplina"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "onde eu posso saber sobre os pre requisitos de porgramaçao2",
+    "entities": [
+      {
+        "start": 47,
+        "end": 59,
+        "value": "porgramaçao2",
+        "entity": "disciplina"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "para cursar circuito eu preciso ter pago o que?",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "value": "circuito",
+        "entity": "disciplina"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "requisitos Física",
+    "entities": [
+      {
+        "start": 11,
+        "end": 17,
+        "value": "Física",
+        "entity": "disciplina"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "discreta 2 tem algum requisito?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "value": "discreta 2",
+        "entity": "disciplina"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "requisitos ia",
+    "entities": [
+      {
+        "start": 11,
+        "end": 13,
+        "value": "ia",
+        "entity": "disciplina"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "pré requisitos para computação em nuvem",
+    "entities": [
+      {
+        "start": 20,
+        "end": 39,
+        "value": "computação em nuvem",
+        "entity": "disciplina"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "quero cursar porg 1 quais cadeiras devo ter pago?",
+    "entities": [
+      {
+        "start": 13,
+        "end": 19,
+        "value": "porg 1",
+        "entity": "disciplina"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "math discreta 1 tem algum requisito?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 15,
+        "value": "math discreta 1",
+        "entity": "disciplina"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "para pagar a cadeira math discreta preciso ter [pago quais cadeiras]?",
+    "entities": [
+      {
+        "start": 21,
+        "end": 34,
+        "value": "math discreta",
+        "entity": "disciplina"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "pre requisitos matematicadiscretaii",
+    "entities": [
+      {
+        "start": 15,
+        "end": 35,
+        "value": "matematicadiscretaii",
+        "entity": "disciplina"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "para pagar a cadeira paa preciso ter [pago quais cadeiras]?",
+    "entities": [
+      {
+        "start": 21,
+        "end": 24,
+        "value": "paa",
+        "entity": "disciplina"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "quero cursar engenharia quais cadeiras devo ter pago?",
+    "entities": [
+      {
+        "start": 13,
+        "end": 23,
+        "value": "engenharia",
+        "entity": "disciplina"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "estou com vontade de me inscrever em rc, como faço pra saber os pré requisitos?",
+    "entities": [
+      {
+        "start": 37,
+        "end": 39,
+        "value": "rc",
+        "entity": "disciplina"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "pre requisitos avlc",
+    "entities": [
+      {
+        "start": 15,
+        "end": 19,
+        "value": "avlc",
+        "entity": "disciplina"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "pré-requisitos para estágio obrigatório",
+    "entities": [
+      {
+        "start": 20,
+        "end": 39,
+        "value": "estágio obrigatório",
+        "entity": "disciplina"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "pré-requisitos Cálculo N II",
+    "entities": [
+      {
+        "start": 15,
+        "end": 27,
+        "value": "Cálculo N II",
+        "entity": "disciplina"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "quero saber sobre os pre requisitos de paradigmas",
+    "entities": [
+      {
+        "start": 39,
+        "end": 49,
+        "value": "paradigmas",
+        "entity": "disciplina"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "quais cadeiras pra fazer compilador",
+    "entities": [
+      {
+        "start": 25,
+        "end": 35,
+        "value": "compilador",
+        "entity": "disciplina"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "quais que são os pré requisitos para compiladores",
+    "entities": [
+      {
+        "start": 37,
+        "end": 49,
+        "value": "compiladores",
+        "entity": "disciplina"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "sistema operarional tem algum requisito?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 19,
+        "value": "sistema operarional",
+        "entity": "disciplina"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "pré-requisitos progi",
+    "entities": [
+      {
+        "start": 15,
+        "end": 20,
+        "value": "progi",
+        "entity": "disciplina"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "algoritmos tem algum requisito?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "value": "algoritmos",
+        "entity": "disciplina"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "estou com vontade de me inscrever em estatpistica, como faço pra saber os pré requisitos?",
+    "entities": [
+      {
+        "start": 37,
+        "end": 49,
+        "value": "estatpistica",
+        "entity": "disciplina"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "arquitetura tem algum requisito?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "value": "arquitetura",
+        "entity": "disciplina"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "pré-requisitos banco s",
+    "entities": [
+      {
+        "start": 15,
+        "end": 22,
+        "value": "banco s",
+        "entity": "disciplina"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "estou afim que vc me diga os requisitos de rede de computadores",
+    "entities": [
+      {
+        "start": 43,
+        "end": 63,
+        "value": "rede de computadores",
+        "entity": "disciplina"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "disciplina",
+        "start": 48,
+        "end": 63,
+        "confidence_entity": 0.5382771842044415,
+        "value": "de computadores",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "requisitos proj de desenvolvimento de soft",
+    "entities": [
+      {
+        "start": 11,
+        "end": 42,
+        "value": "proj de desenvolvimento de soft",
+        "entity": "disciplina"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "disciplina",
+        "start": 19,
+        "end": 42,
+        "confidence_entity": 0.8988145765161791,
+        "value": "Projeto de Desenvolvimento de Software",
+        "extractor": "CRFEntityExtractor",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "ef tem algum requisito?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "ef",
+        "entity": "disciplina"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "me informe sobre os requisitos para edf a",
+    "entities": [
+      {
+        "start": 36,
+        "end": 41,
+        "value": "edf a",
+        "entity": "disciplina"
+      }
+    ],
+    "predicted_entities": []
+  }
+]
