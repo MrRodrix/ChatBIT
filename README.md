@@ -16,7 +16,7 @@ Um projeto de PIBITI (Programa Institucional de Bolsas de Iniciação em Desenvo
 
 - Treinar, na pasta raiz do projeto, execute:
   ```
-  rasa shell
+  rasa train
   ```
 ## Biblioteca
 Foi utilizado o [RASA](https://github.com/RasaHQ) para o desenvolvimento desse chatbot
